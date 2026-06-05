@@ -12,5 +12,12 @@
 ## Inleiding
 ## Methode
 ## Resultaten
+
+<p align="center">
+  <img src="" width="600">
+  <br>
+  <em>Figure 1. Workflow of the RNA-seq analysis pipeline.</em>
+</p>
+
 ## Conclusie
 ## AI Disclaimer
