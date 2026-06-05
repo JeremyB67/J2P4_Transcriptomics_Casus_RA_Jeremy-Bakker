@@ -13,8 +13,9 @@
 ## Methode
 ## Resultaten
 
+
 <p align="center">
-  <img src="<img width="4000" height="5000" alt="Image" src="https://github.com/user-attachments/assets/a0182b72-33cd-445e-a22b-21959c009c13" />" width="600">
+  <img width="4000" height="5000" alt="Image" src="https://github.com/user-attachments/assets/ac21f829-27d2-4027-9061-2bd0ad2176e9" />
   <br>
   <em>Figure 1. Volcanoplot.</em>
 </p>
