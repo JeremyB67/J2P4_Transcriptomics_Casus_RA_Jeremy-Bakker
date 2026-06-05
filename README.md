@@ -23,7 +23,7 @@
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/52b4c630-b1e5-4a0d-a2ad-ce74ffef325d" />
   <br>
-  <em>Figure 2. Go Dotplot.</em>
+  <em>Figure 2. GO Biological Process-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De analyse toont significante verrijking van processen gerelateerd aan lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie. Deze processen wijzen op een verhoogde activiteit van het adaptieve immuunsysteem en ondersteunen de belangrijke rol van B- en T-lymfocyten in de pathogenese van reumatoïde artritis..</em>
 </p>
 
 <p align="center">
