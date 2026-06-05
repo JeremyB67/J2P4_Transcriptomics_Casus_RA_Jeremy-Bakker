@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img width="4000" height="5000" alt="Image" src="https://github.com/user-attachments/assets/ac21f829-27d2-4027-9061-2bd0ad2176e9" />
+  <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/ac21f829-27d2-4027-9061-2bd0ad2176e9" />
   <br>
   <em>Figure 1. Volcanoplot.</em>
 </p>
