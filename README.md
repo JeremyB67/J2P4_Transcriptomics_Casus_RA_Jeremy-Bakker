@@ -14,9 +14,9 @@
 ## Resultaten
 
 <p align="center">
-  <img src="" width="600">
+  <img src="Volcanoplot_RA_2.png" width="600">
   <br>
-  <em>Figure 1. Workflow of the RNA-seq analysis pipeline.</em>
+  <em>Figure 1. Volcanoplot.</em>
 </p>
 
 ## Conclusie
