@@ -20,5 +20,11 @@
   <em>Figure 1. Volcanoplot.</em>
 </p>
 
+<p align="center">
+  <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/52b4c630-b1e5-4a0d-a2ad-ce74ffef325d" />
+  <br>
+  <em>Figure 2. Go Dotplot.</em>
+</p>
+
 ## Conclusie
 ## AI Disclaimer
