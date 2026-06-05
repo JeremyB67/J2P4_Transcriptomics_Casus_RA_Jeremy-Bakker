@@ -14,7 +14,7 @@
 ## Resultaten
 
 <p align="center">
-  <img src="Volcanoplot_RA_2.png" width="600">
+  <img src="<img width="4000" height="5000" alt="Image" src="https://github.com/user-attachments/assets/a0182b72-33cd-445e-a22b-21959c009c13" />" width="600">
   <br>
   <em>Figure 1. Volcanoplot.</em>
 </p>
