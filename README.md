@@ -32,6 +32,11 @@
   <em>Figure 3. KEGG Dotplot.</em>
 </p>
 
+<p align="center">
+  <img width="1492" height="859" alt="Image" src="https://github.com/user-attachments/assets/f9a53300-8888-4aec-b10e-5d0c91c82e57" />
+  <br>
+  <em>Figure 4. hsa05323.pathview_Rheumatoid arthritis.</em>
+</p>
 
 ## Conclusie
 ## AI Disclaimer
