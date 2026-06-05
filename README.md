@@ -29,7 +29,7 @@
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/eacb2306-60a2-4149-87d2-cacc6c705f60" />
   <br>
-  <em>Figure 2. Go Dotplot.</em>
+  <em>Figure 3. KEGG Dotplot.</em>
 </p>
 
 
