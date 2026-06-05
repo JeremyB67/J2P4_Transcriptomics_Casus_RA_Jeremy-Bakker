@@ -38,5 +38,11 @@
   <em>Figure 4. hsa05323.pathview_Rheumatoid arthritis.</em>
 </p>
 
+<p align="center">
+  <img width="1323" height="979" alt="Image" src="https://github.com/user-attachments/assets/138586ff-9ba9-40be-b033-3e2d6891a35d" />
+  <br>
+  <em>Figure 5. hsa04668.pathview_TNF signaling pathway.</em>
+</p>
+
 ## Conclusie
 ## AI Disclaimer
