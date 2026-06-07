@@ -14,9 +14,12 @@
 ## Resultaten
 
 
+  
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/ac21f829-27d2-4027-9061-2bd0ad2176e9" />
   <br>
+</p>
+<p align="left">
   <em>Figuur 1. Volcano plot van de differentieel geëxpresseerde genen (DEGs). De x-as geeft de log₂ fold change (effectgrootte) weer en de y-as toont de statistische significantie (-log₁₀ p-waarde). Grijze stippen (NS) vertegenwoordigen genen zonder significante verandering. Groene stippen tonen genen met een significante log₂ fold change maar zonder statistische p-waarde significantie. Rode stippen rechtsboven en linksboven geven de statistisch meest significante genen (p-waarde én log₂ FC drempelwaarde overschreden) weer, waaronder ANKRD30BL, MT-ND6 en SLC9A3R2. De gestreepte verticale lijnen markeren de log₂ fold change drempelwaarden; de horizontale gestreepte lijn markeert de p-waarde drempelwaarde. In totaal zijn 29.407 variabelen geanalyseerd..</em>
 </p>
 
