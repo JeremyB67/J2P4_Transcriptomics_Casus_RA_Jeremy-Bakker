@@ -11,7 +11,15 @@
 
 ## 📝Inleiding
 ## 📑Methode
+<p align="center">
+  <img width="1994" height="2351" alt="Image" src="https://github.com/user-attachments/assets/8ea2d7a5-98ab-459f-88da-a5d841bb0c4c" />
+  <br>
+</p>
+<p align="left">
+  <em><b>Figuur 1. </b>RNA-seq analysepipeline. Overzicht van de bioinformatische workflow voor de verwerking van RNA-seq data, beginnend bij FASTQ-reads en referentiegenoom, gevolgd door read alignment, BAM-verwerking en genkwantificatie. De resulterende count matrix werd gebruikt voor differentiële expressieanalyse met DESeq2. Significant tot expressie komende genen werden vervolgens geanalyseerd via GO- en KEGG-enrichment en gevisualiseerd met Pathview.</em>
+</p>
 
+<br>
 ## 📊Resultaten
 
 ### Volcanoplot
