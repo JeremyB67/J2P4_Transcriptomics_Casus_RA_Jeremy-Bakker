@@ -68,7 +68,7 @@
   <thead>
     <tr>
       <th align="left">Gen</th>
-      <th align="left">Logische reden om te bespreken</th>
+      <th align="left">Functie</th>
       <th align="left">Functie binnen RA</th>
     </tr>
   </thead>
