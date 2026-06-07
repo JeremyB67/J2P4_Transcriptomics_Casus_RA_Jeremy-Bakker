@@ -39,17 +39,52 @@
   <em>Figuur 4. De visualisatie van differentieel geëxpresseerde genen binnen de KEGG Rheumatoid Arthritis pathway (hsa05323) toont zowel op- als neerregulatie van verschillende immuun- en weefselgerelateerde genen in patiënten met reumatoïde artritis ten opzichte van de controlegroep. Met name IL1B, TLR4, TNFSF13B (BAFF), IFNG, MMP13 en CTSL vertonen verhoogde expressie en zijn betrokken bij ontstekingssignalen, activatie van het aangeboren en adaptieve immuunsysteem, B-celregulatie en extracellulaire matrixafbraak. Daarnaast zijn ook genen met verlaagde expressie zichtbaar binnen de pathway, wat wijst op een verstoring in de balans van immuunregulatie. Samen suggereert dit een veranderde activiteit binnen de RA-pathway, waarin zowel inflammatoire activatie als processen die bijdragen aan weefselschade een rol lijken te spelen.
 .</em>
 </p>
+<br>
 
-<p align="center">
-   <em>Figuur 4.
-    | Gen                 | Logische reden om te bespreken              | Functie binnen RA                                                                 |
-    | ------------------- | ------------------------------------------- | --------------------------------------------------------------------------------- |
-    | **IL1B**            | Sterk pro-inflammatoir cytokine             | Stimuleert ontsteking, cytokineproductie en kraakbeenafbraak                      |
-    | **TLR4**            | Centrale receptor van aangeboren immuniteit | Activeert ontstekingsroutes zoals NF-κB                                           |
-    | **TNFSF13B (BAFF)** | Belangrijk voor B-cellen                    | Bevordert overleving en activatie van B-cellen en productie van auto-antilichamen |
-    | **IFNG**            | Sleutelcytokine van T-cellen                | Versterkt immuunactivatie en ontstekingsreacties                                  |
-    | **MMP13**           | Direct betrokken bij gewrichtsschade        | Breekt extracellulaire matrix en kraakbeen af                                     |
-    | **CTSL**            | Marker voor weefselafbraak                  | Draagt bij aan afbraak van bindweefsel en bot                                     |
+<table>
+  <caption><b>Tabel 1:</b> Overzicht en functies van de belangrijkste differentieel geëxpresseerde genen binnen de RA-pathway</caption>
+  
+  <thead>
+    <tr>
+      <th align="left">Gen</th>
+      <th align="left">Logische reden om te bespreken</th>
+      <th align="left">Functie binnen RA</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td align="left"><b>IL1B</b></td>
+      <td align="left">Sterk pro-inflammatoir cytokine</td>
+      <td align="left">Stimuleert ontsteking, cytokineproductie en kraakbeenafbraak</td>
+    </tr>
+    <tr>
+      <td align="left"><b>TLR4</b></td>
+      <td align="left">Centrale receptor van aangeboren immuniteit</td>
+      <td align="left">Activeert ontstekingsroutes zoals NF-κB</td>
+    </tr>
+    <tr>
+      <td align="left"><b>TNFSF13B (BAFF)</b></td>
+      <td align="left">Belangrijk voor B-cellen</td>
+      <td align="left">Bevordert overleving en activatie van B-cellen en productie van auto-antilichamen</td>
+    </tr>
+    <tr>
+      <td align="left"><b>IFNG</b></td>
+      <td align="left">Sleutelcytokine van T-cellen</td>
+      <td align="left">Versterkt immuunactivatie en ontstekingsreacties</td>
+    </tr>
+    <tr>
+      <td align="left"><b>MMP13</b></td>
+      <td align="left">Direct betrokken bij gewrichtsschade</td>
+      <td align="left">Breekt extracellulaire matrix en kraakbeen af</td>
+    </tr>
+    <tr>
+      <td align="left"><b>CTSL</b></td>
+      <td align="left">Marker voor weefselafbraak</td>
+      <td align="left">Draagt bij aan afbraak van bindweefsel en bot</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <p align="center">
