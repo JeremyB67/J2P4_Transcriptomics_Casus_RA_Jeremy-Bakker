@@ -49,7 +49,7 @@
 
 <br>
 
-### Pathview
+### KEGG Rheumatoid Arthritis pathway (hsa05323)
 
 <p align="center">
   <img width="1492" height="859" alt="Image" src="https://github.com/user-attachments/assets/f9a53300-8888-4aec-b10e-5d0c91c82e57" />
