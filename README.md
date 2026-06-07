@@ -40,6 +40,16 @@
 .</em>
 </p>
 
+| Gen                 | Logische reden om te bespreken              | Functie binnen RA                                                                 |
+| ------------------- | ------------------------------------------- | --------------------------------------------------------------------------------- |
+| **IL1B**            | Sterk pro-inflammatoir cytokine             | Stimuleert ontsteking, cytokineproductie en kraakbeenafbraak                      |
+| **TLR4**            | Centrale receptor van aangeboren immuniteit | Activeert ontstekingsroutes zoals NF-κB                                           |
+| **TNFSF13B (BAFF)** | Belangrijk voor B-cellen                    | Bevordert overleving en activatie van B-cellen en productie van auto-antilichamen |
+| **IFNG**            | Sleutelcytokine van T-cellen                | Versterkt immuunactivatie en ontstekingsreacties                                  |
+| **MMP13**           | Direct betrokken bij gewrichtsschade        | Breekt extracellulaire matrix en kraakbeen af                                     |
+| **CTSL**            | Marker voor weefselafbraak                  | Draagt bij aan afbraak van bindweefsel en bot                                     |
+
+
 <p align="center">
   <img width="1323" height="979" alt="Image" src="https://github.com/user-attachments/assets/138586ff-9ba9-40be-b033-3e2d6891a35d" />
   <br>
