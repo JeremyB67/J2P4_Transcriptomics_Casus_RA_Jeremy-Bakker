@@ -31,7 +31,7 @@
   <br>
 </p>
 <p align="left">
-  <em>Figuur 2. GO Biological Process-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De analyse toont significante verrijking van processen gerelateerd aan lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie. Deze processen zijn geassocieerd met de ontwikkeling, activatie en functie van immuuncellen.</em>
+  <em><b>Figuur 2. </b>. GO Biological Process-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De analyse toont significante verrijking van processen gerelateerd aan lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie. Deze processen zijn geassocieerd met de ontwikkeling, activatie en functie van immuuncellen.</em>
 </p>
 
 <br>
@@ -43,7 +43,7 @@
   <br>
 </p>
 <p align="left">
-  <em>Figuur 3. KEGG Pathway-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De meest relevante verrijkte pathways waren de Rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij de regulatie van ontstekingsreacties, activatie van immuuncellen en de ontwikkeling van auto-immuunprocessen. Deze pathways zijn betrokken bij ontstekingsreacties, immuuncelactivatie en immuunsignalering.
+  <em><b>Figuur 3. </b> KEGG Pathway-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De meest relevante verrijkte pathways waren de Rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij de regulatie van ontstekingsreacties, activatie van immuuncellen en de ontwikkeling van auto-immuunprocessen. Deze pathways zijn betrokken bij ontstekingsreacties, immuuncelactivatie en immuunsignalering.
 .</em>
 </p>
 
@@ -56,7 +56,7 @@
   <br>
 </p>
 <p align="left">
-  <em>Figuur 4. De visualisatie van differentieel geëxpresseerde genen binnen de KEGG Rheumatoid Arthritis pathway (hsa05323) toont zowel op- als neerregulatie van verschillende immuun- en weefselgerelateerde genen in patiënten met reumatoïde artritis ten opzichte van de controlegroep. Met name IL1B, TLR4, TNFSF13B (BAFF), IFNG, MMP13 en CTSL vertonen verhoogde expressie en zijn betrokken bij ontstekingssignalen, activatie van het aangeboren en adaptieve immuunsysteem, B-celregulatie en extracellulaire matrixafbraak. Daarnaast zijn ook genen met verlaagde expressie zichtbaar binnen de pathway, wat wijst op een verstoring in de balans van immuunregulatie. Samen suggereert dit een veranderde activiteit binnen de RA-pathway, waarin zowel inflammatoire activatie als processen die bijdragen aan weefselschade een rol lijken te spelen.
+  <em><b>Figuur 4. </b> De visualisatie van differentieel geëxpresseerde genen binnen de KEGG Rheumatoid Arthritis pathway (hsa05323) toont zowel op- als neerregulatie van verschillende immuun- en weefselgerelateerde genen in patiënten met reumatoïde artritis ten opzichte van de controlegroep. Met name IL1B, TLR4, TNFSF13B (BAFF), IFNG, MMP13 en CTSL vertonen verhoogde expressie en zijn betrokken bij ontstekingssignalen, activatie van het aangeboren en adaptieve immuunsysteem, B-celregulatie en extracellulaire matrixafbraak. Daarnaast zijn ook genen met verlaagde expressie zichtbaar binnen de pathway, wat wijst op een verstoring in de balans van immuunregulatie. Samen suggereert dit een veranderde activiteit binnen de RA-pathway, waarin zowel inflammatoire activatie als processen die bijdragen aan weefselschade een rol lijken te spelen.
 .</em>
 </p>
 
