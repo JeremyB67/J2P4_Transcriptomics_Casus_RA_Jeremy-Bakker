@@ -1,4 +1,4 @@
-# Database-Casus-Reuma
+# Casus Reumatoïde artritis
 ## Inhoud/Structuur
 
 - `data/raw` - Ruwe datasets voor de analyse van de reuma casus.
