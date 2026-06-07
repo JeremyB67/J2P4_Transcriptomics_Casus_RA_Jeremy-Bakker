@@ -1,5 +1,5 @@
 # J2P4_Transcriptomics_Casus_Reumatoïde-artritis
-## Inhoud/Structuur
+## 📁Inhoud/Structuur
 
 - `data/raw` - Ruwe datasets voor de analyse van de reuma casus.
 - `data/processed` - Verwerkte datasets gegenereerd met scripts in R.
@@ -9,7 +9,7 @@
 - `assets/` - Overige documenten 
 - `data_stewardship/` - Beheren van de competentie........
 
-## Inleiding
+## 📝Inleiding
 ## Methode
 ## Resultaten
 
