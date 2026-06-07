@@ -10,8 +10,8 @@
 - `data_stewardship/` - Beheren van de competentie........
 
 ## 📝Inleiding
-## Methode
-## Resultaten
+## 📑Methode
+## 📊Resultaten
 
 ### Volcanoplot
 <p align="center">
@@ -109,7 +109,7 @@
 
 
 
-## Conclusie
-## AI Disclaimer
-## URL's
+## 📚Conclusie
+## 🤖AI Disclaimer
+## 🌐URL's
 https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
