@@ -12,7 +12,7 @@
 ## 📝Inleiding
 ## 📑Methode
 <p align="center">
-  <img width="1994" height="2351" alt="Image" src="https://github.com/user-attachments/assets/8ea2d7a5-98ab-459f-88da-a5d841bb0c4c" />
+  <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/8ea2d7a5-98ab-459f-88da-a5d841bb0c4c" />
   <br>
 </p>
 <p align="left">
