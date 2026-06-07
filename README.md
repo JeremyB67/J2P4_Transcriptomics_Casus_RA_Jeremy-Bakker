@@ -13,8 +13,7 @@
 ## Methode
 ## Resultaten
 
-
-  
+### Volcanoplot
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/ac21f829-27d2-4027-9061-2bd0ad2176e9" />
   <br>
@@ -24,6 +23,8 @@
 </p>
 
 <br>
+
+### GO-analyse
 
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/52b4c630-b1e5-4a0d-a2ad-ce74ffef325d" />
@@ -35,6 +36,8 @@
 
 <br>
 
+### KEGG-analyse
+
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/eacb2306-60a2-4149-87d2-cacc6c705f60" />
   <br>
@@ -45,6 +48,8 @@
 </p>
 
 <br>
+
+### Pathview
 
 <p align="center">
   <img width="1492" height="859" alt="Image" src="https://github.com/user-attachments/assets/f9a53300-8888-4aec-b10e-5d0c91c82e57" />
