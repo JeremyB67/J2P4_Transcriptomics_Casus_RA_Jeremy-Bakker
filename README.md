@@ -29,7 +29,8 @@
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/eacb2306-60a2-4149-87d2-cacc6c705f60" />
   <br>
-  <em>Figure 3. KEGG Dotplot.</em>
+  <em>Figure 3. **Figuur X. KEGG Pathway-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis.** De meest relevante verrijkte pathways waren de *Rheumatoid arthritis pathway*, *TNF signaling pathway*, *IL-17 signaling pathway*, *NF-kappa B signaling pathway* en *Th17 cell differentiation*. Deze pathways zijn betrokken bij de regulatie van ontstekingsreacties, activatie van immuuncellen en de ontwikkeling van auto-immuunprocessen. De verrijking van deze routes ondersteunt de centrale rol van ontregeling van het immuunsysteem in de pathogenese van reumatoïde artritis.
+.</em>
 </p>
 
 <p align="center">
