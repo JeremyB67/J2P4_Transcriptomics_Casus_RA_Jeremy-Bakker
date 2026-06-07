@@ -11,75 +11,7 @@
 
 ## 📝Inleiding
 ## 📑Methode
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>RNA-seq Pipeline</title>
 
-  <!-- Mermaid library -->
-  <script type="module">
-    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
-    mermaid.initialize({ startOnLoad: true });
-  </script>
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f7f7f7;
-    }
-
-    h1 {
-      text-align: center;
-    }
-
-    .mermaid {
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-    }
-  </style>
-</head>
-
-<body>
-
-<h1>RNA-seq Analysis Pipeline</h1>
-
-<div class="mermaid">
-flowchart TD
-
-A[Raw FASTQ Data] --> B[Reference Genome GRCh38.p14]
-B --> C[Genome Indexing<br>(buildindex)]
-C --> D[Read Alignment<br>(align → BAM files)]
-D --> E[BAM Processing<br>(sortBam + indexBam)]
-E --> F[Gene Quantification<br>(featureCounts)]
-F --> G[Count Matrix]
-G --> H[Metadata Annotation<br>(NORM vs RA)]
-
-H --> I[Differential Expression Analysis<br>(DESeq2)]
-
-I --> J[Filtering<br>padj < 0.05<br>|log2FC| > 1]
-
-J --> K[Volcano Plot Visualization]
-
-J --> L[Significant Genes]
-
-L --> M[Gene ID Conversion<br>SYMBOL → ENTREZ]
-
-M --> N[GO Enrichment Analysis]
-M --> O[KEGG Pathway Analysis]
-M --> P[Pathview Visualization]
-
-N --> N1[Dotplot + Barplot]
-O --> O1[Dotplot + Barplot]
-P --> P1[RA + TNF Pathways]
-
-</div>
-
-</body>
-</html>
 ## 📊Resultaten
 
 ### Volcanoplot
