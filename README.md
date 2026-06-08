@@ -215,8 +215,6 @@ Daarnaast liet de GO-verrijkingsanalyse een oververtegenwoordiging zien van proc
 De visualisatie van de rheumatoid arthritis pathway liet daarnaast zien dat genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL verhoogd tot expressie kwamen <strong>[Figuur 5]</strong>. Deze genen zijn betrokken bij ontstekingssignalering, immuunregulatie, B-celactivatie en extracellulaire matrixafbraak. Vergelijkbare immuun- en ontstekingsgerelateerde patronen zijn eerder beschreven in transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022). De gevonden expressiepatronen en verrijkte pathways komen daarmee overeen met moleculaire processen die in de literatuur worden geassocieerd met reumatoïde artritis.
 </p>
 
-
-Als je wilt, kan ik deze tekst ook meteen omzetten naar een net **referentieformaat met literatuurlijst**.
 ## 🤖AI Disclaimer
 
 AI-tools zoals ChatGPT zijn gebruikt ter ondersteuning bij het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteurs gecontroleerd.
@@ -227,23 +225,38 @@ Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>.
 Rheumatic Disease Clinics of North America, 27(2), 269–281. 
 <a href="https://doi.org/10.1016/S0889-857X(05)70201-5" target="_blank">https://doi.org/10.1016/S0889-857X(05)70201-5</a>
 </p>
+
+<p>
+Liu, F., Huang, Y., Liu, F., & Wang, H. (2023). <i>Identification of immune-related genes in diagnosing atherosclerosis with rheumatoid arthritis through bioinformatics analysis and machine learning</i>. 
+Frontiers in Immunology, 14, 1126647. 
+<a href="https://doi.org/10.3389/fimmu.2023.1126647" target="_blank">https://doi.org/10.3389/fimmu.2023.1126647</a>
+</p>
+
+
 <p>
 Majithia, V., & Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. 
 The American Journal of Medicine, 120(11), 936–939. 
 <a href="https://doi.org/10.1016/j.amjmed.2007.04.005" target="_blank">https://doi.org/10.1016/j.amjmed.2007.04.005</a>
 </p>
+
 <p>
 Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., & Aletaha, D. (2019). 
 <i>Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns</i>. 
 PLOS ONE, 14(7). 
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218885" target="_blank">https://doi.org/10.1371/journal.pone.0218885</a>
 </p>
+
 <p>
 Radu, A.-F., & Bungău, S. G. (2021). <i>Management of Rheumatoid Arthritis: An Overview</i>. 
 Cells, 10(11), 2857. 
 <a href="https://doi.org/10.3390/cells10112857" target="_blank">https://doi.org/10.3390/cells10112857</a>
 </p>
 
+<p>
+Wang, Y., et al. (2022). <i>Bioinformatics analysis of rheumatoid arthritis-related genes and signaling pathways</i>. 
+Experimental and Therapeutic Medicine. 
+<a href="https://doi.org/10.3892/etm.2022.11295" target="_blank">https://doi.org/10.3892/etm.2022.11295</a>
+</p>
 
 ## 🌐URL's
 - https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
