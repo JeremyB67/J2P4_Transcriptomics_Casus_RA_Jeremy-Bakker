@@ -218,6 +218,17 @@ Cells, 10(11), 2857.
 <a href="https://doi.org/10.3390/cells10112857" target="_blank">https://doi.org/10.3390/cells10112857</a>
 </p>
 
+
+<h2>References</h2>
+
+<ul>
+  <li>Gabriel (2001) – <a href="https://doi.org/10.1016/S0889-857X(05)70201-5">DOI</a></li>
+  <li>Majithia & Geraci (2007) – <a href="https://doi.org/10.1016/j.amjmed.2007.04.005">DOI</a></li>
+  <li>Platzer et al. (2019) – <a href="https://doi.org/10.1371/journal.pone.0218885">DOI</a></li>
+  <li>Radu & Bungău (2021) – <a href="https://doi.org/10.3390/cells10112857">DOI</a></li>
+</ul>
+
+
 ## 🌐URL's
 - https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
