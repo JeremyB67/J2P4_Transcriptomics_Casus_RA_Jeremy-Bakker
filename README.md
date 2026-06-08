@@ -195,6 +195,9 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 ## 📚Conclusie
 ## 🤖AI Disclaimer
+
+AI-tools zoals ChatGPT zijn gebruikt ter ondersteuning bij het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteurs gecontroleerd.
+
 ## 📚Bronnen
 <p>
 Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. 
