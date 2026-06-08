@@ -230,11 +230,6 @@ Frontiers in Immunology, 14, 1126647.
 </p>
 
 <p>
-Liu, X., et al. (2023). <i>Integrated bioinformatics analysis identifies key genes and pathways associated with rheumatoid arthritis</i>. 
-<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10033585/" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC10033585/</a>
-</p>
-
-<p>
 Majithia, V., & Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. 
 The American Journal of Medicine, 120(11), 936–939. 
 <a href="https://doi.org/10.1016/j.amjmed.2007.04.005" target="_blank">https://doi.org/10.1016/j.amjmed.2007.04.005</a>
