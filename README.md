@@ -190,6 +190,11 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   </tbody>
 </table>
 
+De differentiële expressieanalyse liet een groot aantal genen zien die verschillend tot expressie kwamen tussen de onderzochte groepen. In de volcano plot werden zowel genen met een significante verandering in expressieniveau als genen met een sterke statistische significantie zichtbaar, wat wijst op brede transcriptomische verschillen tussen de condities.
+De GO Biological Process-verrijkingsanalyse toonde een duidelijke oververtegenwoordiging van immuun-gerelateerde processen. De meest verrijkte termen waren onder andere lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie. Deze processen zijn betrokken bij de ontwikkeling, activatie en functie van immuuncellen.
+Daarnaast liet de KEGG pathway-verrijkingsanalyse zien dat meerdere pathways significant verrijkt waren, waaronder de rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways spelen een belangrijke rol bij ontstekingsreacties, immuuncelactivatie en immuungerelateerde signaaltransductie.
+De visualisatie van de differentieel geëxpresseerde genen binnen de KEGG rheumatoid arthritis pathway (hsa05323) liet zien dat meerdere genen betrokken zijn bij ontsteking en weefselgerelateerde processen. Vooral IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie. Deze genen zijn geassocieerd met ontstekingssignalering, immuunregulatie, B-celactivatie en extracellulaire matrixafbraak.
+
 
 
 ## 📚Conclusie
