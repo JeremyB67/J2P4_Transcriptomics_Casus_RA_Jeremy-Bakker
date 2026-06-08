@@ -10,6 +10,13 @@
 - `data_stewardship/` - Beheren van de competentie........
 
 ## 📝Inleiding
+
+Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die voornamelijk de gewrichten aantast. De exacte oorzaak van de ziekte is nog niet volledig opgehelderd, maar er wordt aangenomen dat een combinatie van genetische aanleg, omgevingsfactoren en ontregeling van het immuunsysteem een belangrijke rol speelt (Gabriel, 2001). Een kenmerkend verschijnsel van RA is synovitis, een ontsteking van het gewrichtsslijmvlies (synovium), die kan leiden tot progressieve gewrichtsschade en functieverlies (Radu & Bungau, 2021).
+
+De diagnose van RA wordt doorgaans gesteld op basis van klinische symptomen en de aanwezigheid van specifieke autoantilichamen, waaronder anti-cyclische gecitrullineerde peptiden (ACPA). Vroege detectie van de ziekte is van groot belang, aangezien tijdige behandeling de progressie van gewrichtsschade kan vertragen. Hoewel er momenteel geen genezende behandeling beschikbaar is, kunnen verschillende therapieën de symptomen verminderen en de ziekteactiviteit onder controle houden (Majithia & Geraci, 2007).
+
+Transcriptomics biedt de mogelijkheid om veranderingen in genexpressie op grote schaal te onderzoeken. Door transcriptoomdata van RA-patiënten te vergelijken met die van gezonde controles kunnen genen, biologische processen en signaalroutes worden geïdentificeerd die betrokken zijn bij het ontstaan en de progressie van de ziekte. Hierdoor kan transcriptomics bijdragen aan een beter begrip van de onderliggende moleculaire mechanismen van reumatoïde artritis.
+
 ## 📑Methode
 
 Reumatoïde artritis (RA) is een systemische auto-immuunziekte die wordt gekenmerkt door chronische ontsteking van het gewrichtsslijmvlies (synovitis), wat kan leiden tot progressieve gewrichtsschade. Transcriptomics kan worden ingezet om genexpressieverschillen tussen patiënten en gezonde controles te onderzoeken en zo inzicht te verkrijgen in de moleculaire mechanismen die betrokken zijn bij de ziekte.
