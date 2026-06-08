@@ -93,8 +93,6 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   <em><b>Figuur 1. </b>RNA-seq analysepipeline. Overzicht van de bioinformatische workflow voor de verwerking van RNA-seq data, beginnend bij FASTQ-reads en referentiegenoom, gevolgd door read alignment, BAM-verwerking en genkwantificatie. De resulterende count matrix werd gebruikt voor differentiële expressieanalyse met DESeq2. Significant tot expressie komende genen werden vervolgens geanalyseerd via GO- en KEGG-enrichment en gevisualiseerd met Pathview.</em>
 </p>
 
-<br>
-
 ## 📊Resultaten
 
 ### Volcanoplot
