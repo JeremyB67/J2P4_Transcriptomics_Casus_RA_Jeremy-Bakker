@@ -203,6 +203,20 @@ De visualisatie van de differentieel geëxpresseerde genen binnen de KEGG rheuma
 
 
 ## 📚Conclusie
+<p>
+De resultaten van deze analyse laten zien dat de differentieel geëxpresseerde genen voornamelijk betrokken zijn bij immuunactivatie en ontstekingsprocessen. De volcano plot liet zien dat een groot aantal genen verschillend tot expressie kwam tussen de onderzochte groepen, waarbij meerdere genen zowel een duidelijke verandering in expressieniveau als statistische significantie vertoonden <strong>[Figuur 2]</strong>.
+</p>
+
+<p>
+Daarnaast liet de GO-verrijkingsanalyse een oververtegenwoordiging zien van processen zoals lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie <strong>[Figuur 3]</strong>. Ook de KEGG-analyse toonde verrijking van verschillende immuun- en ontstekingsgerelateerde pathways, waaronder de TNF signaling pathway, NF-kappa B signaling pathway, IL-17 signaling pathway, Th17 cell differentiation en de rheumatoid arthritis pathway <strong>[Figuur 4]</strong>.
+</p>
+
+<p>
+De visualisatie van de rheumatoid arthritis pathway liet daarnaast zien dat genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL verhoogd tot expressie kwamen <strong>[Figuur 5]</strong>. Deze genen zijn betrokken bij ontstekingssignalering, immuunregulatie, B-celactivatie en extracellulaire matrixafbraak. Vergelijkbare immuun- en ontstekingsgerelateerde patronen zijn eerder beschreven in transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022). De gevonden expressiepatronen en verrijkte pathways komen daarmee overeen met moleculaire processen die in de literatuur worden geassocieerd met reumatoïde artritis.
+</p>
+
+
+Als je wilt, kan ik deze tekst ook meteen omzetten naar een net **referentieformaat met literatuurlijst**.
 ## 🤖AI Disclaimer
 
 AI-tools zoals ChatGPT zijn gebruikt ter ondersteuning bij het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteurs gecontroleerd.
