@@ -53,6 +53,26 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left">female</td>
       <td align="left">Normal</td>
     </tr>
+      <td align="left"><b>SRR4785979</b></td>
+      <td align="left">54</td>
+      <td align="left">female</td>
+      <td align="left">Rheumatoid arthritis (established)</td>
+    </tr>
+      <td align="left"><b>SRR4785980</b></td>
+      <td align="left">66</td>
+      <td align="left">female</td>
+      <td align="left">Rheumatoid arthritis (established)</td>
+    </tr>
+      <td align="left"><b>SRR4785986</b></td>
+      <td align="left">60</td>
+      <td align="left">female</td>
+      <td align="left">Rheumatoid arthritis (established)</td>
+    </tr>
+      <td align="left"><b>SRR4785988</b></td>
+      <td align="left">59</td>
+      <td align="left">female</td>
+      <td align="left">Rheumatoid arthritis (established)</td>
+    </tr>
   </tbody>
 </table>
 
