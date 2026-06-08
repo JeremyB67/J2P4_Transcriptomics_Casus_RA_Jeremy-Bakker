@@ -214,7 +214,7 @@ De visualisatie van de rheumatoid arthritis pathway liet daarnaast zien dat gene
 
 ## 🤖AI Disclaimer
 
-AI-tools zoals ChatGPT zijn gebruikt ter ondersteuning bij het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteurs gecontroleerd.
+AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoeken van wetenschapelijke artikelen, het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteur/student gecontroleerd.
 
 ## 📚Bronnen
 <p>
