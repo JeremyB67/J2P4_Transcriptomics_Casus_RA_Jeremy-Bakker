@@ -195,6 +195,50 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 ## 📚Conclusie
 ## 🤖AI Disclaimer
+## 📚Bronnen
+@article{gabriel2001epidemiology,
+  title   = {The epidemiology of rheumatoid arthritis},
+  author  = {Gabriel, Sherine E},
+  journal = {Rheumatic Disease Clinics of North America},
+  year    = {2001},
+  volume  = {27},
+  number  = {2},
+  pages   = {269--281},
+  doi     = {10.1016/S0889-857X(05)70201-5},
+  url     = {https://doi.org/10.1016/S0889-857X(05)70201-5}
+}
+@article{majithia2007rheumatoid,
+  title   = {Rheumatoid arthritis: diagnosis and management},
+  author  = {Majithia, Vikas and Geraci, Stephen A},
+  journal = {The American Journal of Medicine},
+  year    = {2007},
+  volume  = {120},
+  number  = {11},
+  pages   = {936--939},
+  doi     = {10.1016/j.amjmed.2007.04.005},
+  url     = {https://doi.org/10.1016/j.amjmed.2007.04.005}
+}
+@article{platzer2019gene,
+  title   = {Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns},
+  author  = {Platzer, Andreas and Nussbaumer, Thomas and Karonitsch, Thomas and Smolen, Josef S and Aletaha, Daniel},
+  journal = {PLOS ONE},
+  year    = {2019},
+  volume  = {14},
+  number  = {7},
+  doi     = {10.1371/journal.pone.0218885},
+  url     = {https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218885}
+}
+@article{radu2021management,
+  title   = {Management of Rheumatoid Arthritis: An Overview},
+  author  = {Radu, Alexandru Florin and Bungau, Stefan G},
+  journal = {Cells},
+  year    = {2021},
+  volume  = {10},
+  number  = {11},
+  pages   = {2857},
+  doi     = {10.3390/cells10112857},
+  url     = {https://doi.org/10.3390/cells10112857}
+}
 ## 🌐URL's
 - https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
