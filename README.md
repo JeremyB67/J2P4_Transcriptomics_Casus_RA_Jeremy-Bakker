@@ -17,6 +17,7 @@ Reumatoïde artritis (RA) is een systemische auto-immuunziekte die wordt gekenme
 Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van Platzer et al. (2019). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was.
 
 De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 met behulp van het Rsubread package. Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2. Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO)- en KEGG-pathwayanalyses, waarna relevante pathways werden gevisualiseerd met Pathview. Zie figuur 1.
+
 <br>
 
 <p align="center">
