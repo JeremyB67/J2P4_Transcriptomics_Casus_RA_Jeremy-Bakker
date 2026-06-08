@@ -23,7 +23,6 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 <table>
   <caption><b>Tabel 1:</b> Overzicht samples uit onderzoek van Platzer et al. (2019)</caption>
-
  <thead>
     <tr>
       <th align="left">FASTQ</th>
@@ -38,7 +37,9 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left">31</td>
       <td align="left">female</td>
       <td align="left">Normal</td>
-    </tr>
+      </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/8ea2d7a5-98ab-459f-88da-a5d841bb0c4c" />
