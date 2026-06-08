@@ -140,7 +140,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 <br>
 
 <table>
-  <caption><b>Tabel 1:</b> Overzicht en functies van de belangrijkste differentieel geëxpresseerde genen binnen de RA-pathway</caption>
+  <caption><b>Tabel 2:</b> Overzicht en functies van de belangrijkste differentieel geëxpresseerde genen binnen de RA-pathway</caption>
   
   <thead>
     <tr>
