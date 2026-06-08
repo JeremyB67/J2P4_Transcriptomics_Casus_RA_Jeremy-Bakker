@@ -28,7 +28,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <th align="left">FASTQ</th>
       <th align="left">Leeftijd</th>
       <th align="left">Geslacht</th>
-      <th align="left">Groept</th>
+      <th align="left">Groep</th>
     </tr>
   </thead>
   <tbody>
@@ -37,7 +37,22 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left">31</td>
       <td align="left">female</td>
       <td align="left">Normal</td>
-      </tr>
+    </tr>
+      <td align="left"><b>SRR4785820</b></td>
+      <td align="left">15</td>
+      <td align="left">female</td>
+      <td align="left">Normal</td>
+    </tr>
+      <td align="left"><b>SRR4785828</b></td>
+      <td align="left">31</td>
+      <td align="left">female</td>
+      <td align="left">Normal</td>
+    </tr>
+      <td align="left"><b>SRR4785831</b></td>
+      <td align="left">42</td>
+      <td align="left">female</td>
+      <td align="left">Normal</td>
+    </tr>
   </tbody>
 </table>
 
