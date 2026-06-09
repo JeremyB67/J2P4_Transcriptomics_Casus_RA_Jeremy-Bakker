@@ -119,7 +119,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 <br>
 
 <table>
-  <caption><b>Tabel 2:</b> GO-analyse</caption>
+  <caption><b>Tabel 2:</b>Top 10 enriched GO termen</caption>
  <thead>
     <tr>
       <th align="left">Category</th>
