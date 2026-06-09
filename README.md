@@ -134,14 +134,52 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left"><b>BP</b></td>
       <td align="left">lymphocyte differentiation</td>
       <td align="left">164</td>
-      <td align="left">4.78 × 10<sub>-10</sub></td>
-      <td align="left">TNF signaling pathway</td>
+      <td align="left">4.78 × 10<sup>-10</sup></td>
     </tr>
       <td align="left"><b>BP</b></td>
       <td align="left">adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains</td>
       <td align="left">151</td>
-      <td align="left">2.36 × 10⁻¹⁰td>
-      <td align="left">NF-kappa B signaling pathway</td>
+      <td align="left">2.36 × 10<sup>-10</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">lymphocyte mediated immunity</td>
+      <td align="left">137</td>
+      <td align="left">1.10 × 10<sup>-7</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">leukocyte proliferation</td>
+      <td align="left">125</td>
+      <td align="left">1.36 × 10<sup>-6</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">lymphocyte proliferation</td>
+      <td align="left">113</td>
+      <td align="left">1.36 × 10<sup>-6</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">B cell activation</td>
+      <td align="left">108</td>
+      <td align="left">9.48 × 10<sup>-7</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">cellular response to biotic stimulus</td>
+      <td align="left">99</td>
+      <td align="left">9.25 × 10<sup>-7</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">cellular response to molecule of bacterial origin</td>
+      <td align="left">92</td>
+      <td align="left">4.83 × 10<sup>-7</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">antigen receptor-mediated signaling pathway</td>
+      <td align="left">91</td>
+      <td align="left">7.16 × 10<sup>-9</sup></td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">immunoglobulin mediated immune response</td>
+      <td align="left">87</td>
+      <td align="left">1.64 × 10<sup>-9</sup></td>
     </tr>
   </tbody>
 </table>
