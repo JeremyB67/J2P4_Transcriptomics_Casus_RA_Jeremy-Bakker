@@ -118,6 +118,32 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 <br>
 
+<table>
+  <caption><b>Tabel 2:</b> GO-analyse</caption>
+ <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Term</th>
+      <th align="left">Count</th>
+      <th align="left">Adjusted p-value</th>
+      <th align="left">Pathway</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">lymphocyte differentiation</td>
+      <td align="left">164</td>
+      <td align="left">4.78 × 10⁻¹⁰td>
+      <td align="left">TNF signaling pathway</td>
+    </tr>
+      <td align="left"><b>BP</b></td>
+      <td align="left">adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains</td>
+      <td align="left">151</td>
+      <td align="left">2.36 × 10⁻¹⁰td>
+      <td align="left">NF-kappa B signaling pathway</td>
+    </tr>
+
 ### KEGG-analyse
 
 <p align="center">
