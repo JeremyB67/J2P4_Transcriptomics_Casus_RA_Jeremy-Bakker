@@ -27,7 +27,6 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 <br>
 
-
 <table>
   <caption><b>Tabel 1:</b> Overzicht samples uit onderzoek van Platzer et al. (2019)</caption>
  <thead>
@@ -82,6 +81,8 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
     </tr>
   </tbody>
 </table>
+
+<br>
 
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/8ea2d7a5-98ab-459f-88da-a5d841bb0c4c" />
