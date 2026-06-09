@@ -83,8 +83,6 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   </tbody>
 </table>
 
-<br>
-
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/8ea2d7a5-98ab-459f-88da-a5d841bb0c4c" />
   <br>
@@ -116,7 +114,6 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   <em><b>Figuur 3. </b> GO Biological Process-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De analyse toont significante verrijking van processen gerelateerd aan lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie. Deze processen zijn geassocieerd met de ontwikkeling, activatie en functie van immuuncellen.</em>
 </p>
 
-<br>
 
 <table>
   <caption><b>Tabel 2:</b> Top 10 enriched GO termen</caption>
