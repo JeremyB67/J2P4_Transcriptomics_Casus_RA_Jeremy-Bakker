@@ -214,6 +214,18 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left">0.00390113449114229</td>
       <td align="left">AKT1, CACNA1D, CACNA1H, CACNA2D4, CACNB1, CACNB3, CASP3, CHUK, CSF1, DAXX, DDIT3, DUSP5, DUSP6, DUSP7, DUSP8, ECSIT, EFNA2, ERBB2, FGF23, FGF7, FLT1, FLT3LG, GADD45G, HRAS, HSPA1A, HSPA1B, HSPB1</td>
     </tr>
+      <td align="left"><b>Epstein-Barr virus infection</b></td>
+      <td align="left">hsa05169</td>
+      <td align="left">68</td>
+      <td align="left">0.00335694425358938</td>
+      <td align="left">ADRM1, AKT1, B2M, BAX, BCL2, BCL2L11, CASP3, CASP8, CCND1, CCND2, CD19, CD3D, CD58, CD4, CHUK, CR2, CXCL10, E2F3, ENTPD1, GADD45G, HES1, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, HLA-F, IFNA</td>
+    </tr>
+      <td align="left"><b>NOD-like receptor signaling pathway</b></td>
+      <td align="left">hsa04621</td>
+      <td align="left">67</td>
+      <td align="left">0.00102996703705523</td>
+      <td align="left">AIM2, ANTXR1, ANTXR2, ATG16L1, ATG5, BCL2, BIRC3, CARD16, CARD6, CARD8, CARD9, CASP4, CASP5, CASP8, CASR, CCL2, CHUK, CXCL1, CXCL2, CXCL3, CXCL8, CYBB, DEFA1, GABARAP, GBP1, GBP5, GSDMD, HSP90AB1</td>
+    </tr>
   </tbody>
 </table>
 
