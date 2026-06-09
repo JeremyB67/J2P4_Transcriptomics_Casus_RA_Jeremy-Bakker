@@ -126,7 +126,6 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <th align="left">Term</th>
       <th align="left">Count</th>
       <th align="left">Adjusted p-value</th>
-      <th align="left">Pathway</th>
     </tr>
   </thead>
   <tbody>
