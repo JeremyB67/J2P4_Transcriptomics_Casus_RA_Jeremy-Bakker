@@ -196,7 +196,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 </p>
 
 <table>
-  <caption><b>Tabel 2:</b> Top 10 enriched GO termen</caption>
+  <caption><b>Tabel 3:</b> Kyoto Encyclopedia of Genes and Genomes pathway analysis of integrated differentially expressed genes.</caption>
  <thead>
     <tr>
       <th align="left">Pathway</th>
@@ -226,6 +226,48 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left">0.00102996703705523</td>
       <td align="left">AIM2, ANTXR1, ANTXR2, ATG16L1, ATG5, BCL2, BIRC3, CARD16, CARD6, CARD8, CARD9, CASP4, CASP5, CASP8, CASR, CCL2, CHUK, CXCL1, CXCL2, CXCL3, CXCL8, CYBB, DEFA1, GABARAP, GBP1, GBP5, GSDMD, HSP90AB1</td>
     </tr>
+      <td align="left"><b>TNF signaling pathway</b></td>
+      <td align="left">hsa04668</td>
+      <td align="left">46</td>
+      <td align="left">0.00193392176389528</td>
+      <td align="left">ADAM17, AKT1, ATF6B, BIRC3, CASP10, CASP3, CASP8, CCL2, CHUK, CSF1, CX3CL1, CXCL1, CXCL10, CXCL2, CXCL3, CXCL6, CYLD, DAB2IP, EDN1, IL15, IL1B, IRF1, JUN, JUNB, MAP2K4, MAP2K7, MAP3K5, MAP3K7, MAPK12</td>
+    </tr>
+      <td align="left"><b>NF-kappa B signaling pathway</b></td>
+      <td align="left">hsa04064</td>
+      <td align="left">43</td>
+      <td align="left">0.00102996703705523</td>
+      <td align="left">ATM, BCL2, BCL2A1, BIRC3, CARD10, CHUK, CSNK2B, CXCL1, CXCL2, CXCL3, CXCL8, CYLD, EDA, EDARADD, GADD45G, IL1B, IRAK1, IRAK2, LBP, LTBR, LY96, LYN, MALT1, MAP3K7, NFKB1, NFKB2, PIAS4, PIDD1, PLCG2, PPP1R</td>
+    </tr>
+      <td align="left"><b>Th17 cell differentiation</b></td>
+      <td align="left">hsa04659</td>
+      <td align="left">41</td>
+      <td align="left">0.00435344378211124</td>
+      <td align="left">CD3D, CHUK, GATA3, HIF1A, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, HSP90AB1, IFNG, IFNGR1, IL1B, IL1RAP, IL21R, IL2RA, IL2RB, IL2RG, IRF4, JAK2, JUN, MAPK12, MAPK14, MAPK3, MAPK8, MTOR, NFATC2</td>
+    </tr>
+      <td align="left"><b>AGE-RAGE signaling pathway in diabetic complications</b></td>
+      <td align="left">hsa04933</td>
+      <td align="left">40</td>
+      <td align="left">0.00273426845638295</td>
+      <td align="left">AKT1, BAX, BCL2, CASP3, CCL2, CCND1, CDK4, COL4A2, COL4A4, CXCL8, CYBB, EDN1, EGR1, HRAS, IL1B, JAK2, JUN, MAPK12, MAPK14, MAPK3, MAPK8, MMP2, NFKB1, PIK3R2, PIM1, PLCB3, PLCD1, PLCD3, PLCG2, PRKCB</td>
+    </tr>
+      <td align="left"><b>Rheumatoid arthritis</b></td>
+      <td align="left">hsa05323</td>
+      <td align="left">37</td>
+      <td align="left">0.00335694425358938</td>
+      <td align="left">ATP6AP1, ATP6V0C, ATP6V0E1, ATP6V1A, ATP6V1B2, CCL2, CD28, CD86, CSF1, CTLA4, CTSL, CXCL1, CXCL2, CXCL3, CXCL6, CXCL8, FLT1, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, IFNG, IL15, IL1B, ITGAL, JUN</td>
+    </tr>
+      <td align="left"><b>IL-17 signaling pathway</b></td>
+      <td align="left">hsa04657</td>
+      <td align="left">37</td>
+      <td align="left">0.00383832578246515</td>
+      <td align="left">CASP3, CASP8, CCL2, CHUK, CXCL1, CXCL10, CXCL2, CXCL3, CXCL6, CXCL8, HSP90AB1, IFNG, IL17RC, IL17RE, IL1B, JUN, JUND, MAP3K7, MAPK12, MAPK14, MAPK15, MAPK3, MAPK7, MAPK8, MMP1, MMP3, MMP9, MUC5B</td>
+    </tr>
+      <td align="left"><b>Leishmaniasis</b></td>
+      <td align="left">hsa05140</td>
+      <td align="left">34</td>
+      <td align="left">0.00114374802489345</td>
+      <td align="left">CR1, CR1L, CYBB, FCGR1A, FCGR2A, FCGR3A, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, IFNG, IFNGR1, IL1B, IRAK1, IRAK2, ITGA4, JAK2, JUN, MAP3K7, MAPK12, MAPK14, MAPK3, NFKB1, NFKBIB, PRKCB, PTG</td>
+    </tr>
   </tbody>
 </table>
 
@@ -238,13 +280,13 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   <br>
 </p>
 <p align="left">
-  <em><b>Figuur 5. </b> De visualisatie van differentieel geëxpresseerde genen binnen de KEGG Rheumatoid Arthritis pathway (hsa05323) toont zowel op- als neerregulatie van verschillende immuun- en weefselgerelateerde genen in patiënten met reumatoïde artritis ten opzichte van de controlegroep. Met name IL1B, TLR4, TNFSF13B (BAFF), IFNG, MMP13 en CTSL vertonen verhoogde expressie en zijn betrokken bij ontstekingssignalen, activatie van het aangeboren en adaptieve immuunsysteem, B-celregulatie en extracellulaire matrixafbraak. Daarnaast zijn ook genen met verlaagde expressie zichtbaar binnen de pathway, wat wijst op een verstoring in de balans van immuunregulatie. Samen suggereert dit een veranderde activiteit binnen de RA-pathway, waarin zowel inflammatoire activatie als processen die bijdragen aan weefselschade een rol lijken te spelen. Zie tabel 2.</em>
+  <em><b>Figuur 5. </b> De visualisatie van differentieel geëxpresseerde genen binnen de KEGG Rheumatoid Arthritis pathway (hsa05323) toont zowel op- als neerregulatie van verschillende immuun- en weefselgerelateerde genen in patiënten met reumatoïde artritis ten opzichte van de controlegroep. Met name IL1B, TLR4, TNFSF13B (BAFF), IFNG, MMP13 en CTSL vertonen verhoogde expressie en zijn betrokken bij ontstekingssignalen, activatie van het aangeboren en adaptieve immuunsysteem, B-celregulatie en extracellulaire matrixafbraak. Daarnaast zijn ook genen met verlaagde expressie zichtbaar binnen de pathway, wat wijst op een verstoring in de balans van immuunregulatie. Samen suggereert dit een veranderde activiteit binnen de RA-pathway, waarin zowel inflammatoire activatie als processen die bijdragen aan weefselschade een rol lijken te spelen. Zie tabel 5.</em>
 </p>
 
 <br>
 
 <table>
-  <caption><b>Tabel 2:</b> Overzicht en functies van de belangrijkste differentieel geëxpresseerde genen binnen de RA-pathway</caption>
+  <caption><b>Tabel 5:</b> Overzicht en functies van de belangrijkste differentieel geëxpresseerde genen binnen de RA-pathway</caption>
   
   <thead>
     <tr>
