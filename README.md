@@ -143,6 +143,10 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left">2.36 × 10⁻¹⁰td>
       <td align="left">NF-kappa B signaling pathway</td>
     </tr>
+  </tbody>
+</table>
+
+  <br>
 
 ### KEGG-analyse
 
@@ -153,6 +157,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 <p align="left">
   <em><b>Figuur 4. </b> KEGG Pathway-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De meest relevante verrijkte pathways waren de Rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij de regulatie van ontstekingsreacties, activatie van immuuncellen en de ontwikkeling van auto-immuunprocessen. Deze pathways zijn betrokken bij ontstekingsreacties, immuuncelactivatie en immuunsignalering.</em>
 </p>
+
 
 <br>
 
