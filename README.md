@@ -134,7 +134,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
       <td align="left"><b>BP</b></td>
       <td align="left">lymphocyte differentiation</td>
       <td align="left">164</td>
-      <td align="left">4.78 × 10<sub>-10</sup></td>
+      <td align="left">4.78 × 10<sub>-10</sub></td>
       <td align="left">TNF signaling pathway</td>
     </tr>
       <td align="left"><b>BP</b></td>
