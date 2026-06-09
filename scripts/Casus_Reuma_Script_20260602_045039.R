@@ -237,6 +237,12 @@
           title = "GO Biological Process Enrichment Analysis",
         ) +
         theme(plot.title = element_text(hjust = 0.5))
+
+# Stap 9 — Tabel maken----          
+        go_table <- as.data.frame(go_bp)    
+        head(go_table)
+        go_table[, c("ID", "Description", "Count", "p.adjust")]
+          
             
 # KEGG-Analyse-----------------------------------------------------------------------------------------------------
 # Stap 1 — Enrichment----      
@@ -274,6 +280,28 @@
           title = "KEGG Pathway Enrichment Analysis",
         ) +
         theme(plot.title = element_text(hjust = 0.5))
+
+# Stap 5 — Tabel maken----      
+      kegg <- setReadable(kegg,
+                          OrgDb = org.Hs.eg.db,
+                          keyType = "ENTREZID")
+      kegg_table <- as.data.frame(kegg)
+      
+      head(kegg_table)
+      kegg_top15 <- kegg_table[1:15,
+                               c("Description",
+                                 "ID",
+                                 "Count",
+                                 "p.adjust",
+                                 "geneID")]
+      colnames(kegg_top15) <- c("Pathway",
+                                "ID",
+                                "Gene_count",
+                                "P_value",
+                                "Genes")
+      write.csv(kegg_top15,
+                "KEGG_Top15.csv",
+                row.names = FALSE)
       
  
 # Pathview-----------------------------------------------------------------------------------------------------      
