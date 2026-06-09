@@ -195,6 +195,27 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   <em><b>Figuur 4. </b> KEGG Pathway-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De meest relevante verrijkte pathways waren de Rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij de regulatie van ontstekingsreacties, activatie van immuuncellen en de ontwikkeling van auto-immuunprocessen. Deze pathways zijn betrokken bij ontstekingsreacties, immuuncelactivatie en immuunsignalering.</em>
 </p>
 
+<table>
+  <caption><b>Tabel 2:</b> Top 10 enriched GO termen</caption>
+ <thead>
+    <tr>
+      <th align="left">Pathway</th>
+      <th align="left">ID</th>
+      <th align="left">Gene_count</th>
+      <th align="left">p-value</th>
+      <th align="left">Genes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>MAPK signaling pathway</b></td>
+      <td align="left">hsa04010</td>
+      <td align="left">93</td>
+      <td align="left">0.00390113449114229</td>
+      <td align="left">AKT1, CACNA1D, CACNA1H, CACNA2D4, CACNB1, CACNB3, CASP3, CHUK, CSF1, DAXX, DDIT3, DUSP5, DUSP6, DUSP7, DUSP8, ECSIT, EFNA2, ERBB2, FGF23, FGF7, FLT1, FLT3LG, GADD45G, HRAS, HSPA1A, HSPA1B, HSPB1</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
