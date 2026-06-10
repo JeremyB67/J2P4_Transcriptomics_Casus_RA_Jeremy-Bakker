@@ -330,13 +330,13 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 <br>
 
-De differentiële expressieanalyse liet een groot aantal genen zien die verschillend tot expressie kwamen tussen de onderzochte groepen. In de volcano plot werden genen met een verandering in expressieniveau en genen met statistische significantie zichtbaar, wat duidt op verschillen tussen de condities.
+De PCA-plot liet een scheiding zien tussen de NORM- en RA-monsters langs de eerste hoofdcomponent. Daarnaast liet de differentiële expressieanalyse een groot aantal genen zien die verschillend tot expressie kwamen tussen de onderzochte groepen. In de volcano plot werden genen met een verandering in expressieniveau en genen met statistische significantie zichtbaar. Zie <strong>[Figuur 2]</strong>.
 
-De GO Biological Process-verrijkingsanalyse liet een oververtegenwoordiging van immuun-gerelateerde processen zien. De meest verrijkte termen waren lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie. Deze processen zijn betrokken bij de ontwikkeling, activatie en functie van immuuncellen.
+De GO Biological Process-verrijkingsanalyse liet een oververtegenwoordiging van immuun-gerelateerde processen zien. De meest verrijkte termen waren lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie. Deze processen zijn betrokken bij de ontwikkeling, activatie en functie van immuuncellen. Zie <strong>[Figuur 3]</strong>.
 
-De KEGG pathway-verrijkingsanalyse liet meerdere pathways zien die significant verrijkt waren, waaronder de rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij ontstekingsreacties, immuuncelactivatie en signaaltransductie.
+De KEGG pathway-verrijkingsanalyse liet meerdere pathways zien die significant verrijkt waren, waaronder de rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij ontstekingsreacties, immuuncelactivatie en signaaltransductie. Zie <strong>[Figuur 4]</strong>.
 
-De visualisatie van de differentieel geëxpresseerde genen binnen de KEGG rheumatoid arthritis pathway (hsa05323) liet zien dat meerdere genen betrokken zijn bij ontsteking en weefselgerelateerde processen. IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie. Deze genen zijn geassocieerd met ontstekingssignalering, immuunregulatie, B-celactivatie en extracellulaire matrixafbraak.
+De visualisatie van de differentieel geëxpresseerde genen binnen de KEGG rheumatoid arthritis pathway (hsa05323) liet zien dat meerdere genen betrokken zijn bij ontsteking en weefselgerelateerde processen. IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie. Deze genen zijn geassocieerd met ontstekingssignalering, immuunregulatie, B-celactivatie en extracellulaire matrixafbraak. Zie <strong>[Figuur 5]</strong>.
 
 
 
@@ -350,7 +350,7 @@ Daarnaast liet de GO-verrijkingsanalyse een oververtegenwoordiging zien van proc
 </p>
 
 <p>
-De visualisatie van de rheumatoid arthritis pathway liet daarnaast zien dat genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL verhoogd tot expressie kwamen <strong>[Figuur 5]</strong>. Deze genen zijn betrokken bij ontstekingssignalering, immuunregulatie, B-celactivatie en extracellulaire matrixafbraak. Vergelijkbare immuun- en ontstekingsgerelateerde patronen zijn eerder beschreven in transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022). De gevonden expressiepatronen en verrijkte pathways komen daarmee overeen met moleculaire processen die in de literatuur worden geassocieerd met reumatoïde artritis.
+De visualisatie van de rheumatoid arthritis pathway liet daarnaast zien dat genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL verhoogd tot expressie kwamen <strong>[Figuur 5]</strong>. Deze genen zijn betrokken bij ontstekingssignalering, immuunregulatie, B-celactivatie en extracellulaire matrixafbraak. Vergelijkbare immuun- en ontstekingsgerelateerde patronen zijn eerder beschreven in transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022). De gevonden expressiepatronen en verrijkte pathways komen daarmee overeen met moleculaire processen die in de literatuur worden geassocieerd met reumatoïde artritis <strong>[Figuur 5]</strong>.
 </p>
 
 ## 🤖AI Disclaimer
