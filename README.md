@@ -100,7 +100,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   <br>
 </p>
 <p align="left">
-  <em><b>Figuur 2. </b>Volcano plot van de differentieel geëxpresseerde genen (DEGs). De x-as geeft de log₂ fold change (effectgrootte) weer en de y-as toont de statistische significantie (-log₁₀ p-waarde). Grijze stippen (NS) vertegenwoordigen genen zonder significante verandering. Groene stippen tonen genen met een significante log₂ fold change maar zonder statistische p-waarde significantie. Rode stippen rechtsboven en linksboven geven de statistisch meest significante genen (p-waarde én log₂ FC drempelwaarde overschreden) weer, waaronder ANKRD30BL, MT-ND6 en SLC9A3R2. De gestreepte verticale lijnen markeren de log₂ fold change drempelwaarden; de horizontale gestreepte lijn markeert de p-waarde drempelwaarde. In totaal zijn 29.407 variabelen geanalyseerd.</em>
+  <em><b>Figuur 2. </b>Transcriptomische verschillen tussen de NORM- en RA-groep. (A) PCA-plot van de genexpressiegegevens. PC1 en PC2 verklaren respectievelijk 74% en 10% van de totale variantie. De monsters vertonen een scheiding tussen de NORM- en RA-groep op basis van hun genexpressieprofielen. (B) Volcano plot van de differentieel geëxpresseerde genen (DEGs). De x-as toont de log₂ fold change en de y-as de statistische significantie (-log₁₀ p-waarde). Grijze stippen vertegenwoordigen niet-significante genen, groene stippen genen met een significante log₂ fold change en rode stippen genen die zowel de log₂ fold change- als de p-waardedrempel overschrijden. Voorbeelden van sterk significante genen zijn ANKRD30BL, MT-ND6 en SLC9A3R2. De gestreepte lijnen geven de ingestelde drempelwaarden weer. In totaal zijn 29.407 genen geanalyseerd.</em>
 </p>
 
 <br>
