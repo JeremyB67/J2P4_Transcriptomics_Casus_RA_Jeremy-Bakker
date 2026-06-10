@@ -94,7 +94,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 ## 📊Resultaten
 
-### Volcanoplot
+### PCA & Volcanoplot
 <p align="center">
   <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/5fe39c2b-a0a4-4d8c-83c8-1701e41013a5" />
   <br>
