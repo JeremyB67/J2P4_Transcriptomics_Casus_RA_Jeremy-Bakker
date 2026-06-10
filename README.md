@@ -342,7 +342,7 @@ De visualisatie van de differentieel geëxpresseerde genen binnen de KEGG rheuma
 
 ## 📚Conclusie
 <p>
-De resultaten van deze analyse laten zien dat de differentieel geëxpresseerde genen voornamelijk betrokken zijn bij immuunactivatie en ontstekingsprocessen. De volcano plot liet zien dat een groot aantal genen verschillend tot expressie kwam tussen de onderzochte groepen, waarbij meerdere genen zowel een duidelijke verandering in expressieniveau als statistische significantie vertoonden <strong>[Figuur 2]</strong>.
+De resultaten van deze analyse laten zien dat de differentieel geëxpresseerde genen voornamelijk betrokken zijn bij immuunactivatie en ontstekingsprocessen. De PCA- en differentiële expressieanalyse lieten verschillen zien tussen de NORM- en RA-groep. In de volcano plot waren meerdere genen zichtbaar met zowel een verandering in expressieniveau als een statistisch significante p-waarde. Zie <strong>[Figuur 2]</strong>.
 </p>
 
 <p>
