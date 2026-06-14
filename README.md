@@ -23,7 +23,7 @@ Reumatoïde artritis (RA) is een systemische auto-immuunziekte die wordt gekenme
 
 Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van Platzer et al. (2019). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was. Zie tabel 1 voor overzicht samples Platzer et al. (2019).
 
-De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 met behulp van het Rsubread package. Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2. Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO)- en KEGG-pathwayanalyses, waarna relevante pathways werden gevisualiseerd met Pathview. Zie figuur 1.
+De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 met behulp van het Rsubread package. Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (Love et al., 2014). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) (The Gene Ontology Consortium, 2021) en KEGG-pathwayanalyses (Kanehisa et al., 2023), met behulp van clusterProfiler (Yu et al., 2012). Waarna relevante pathways werden gevisualiseerd met Pathview (Luo & Brouwer, 2013). Zie figuur 1.
 
 <br>
 
@@ -366,33 +366,60 @@ AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoe
 
 ## 📚Bronnen
 
+<p><b>References</b></p>
+
 <p>
-Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. Rheumatic Disease Clinics of North America, 27(2), 269–281.  
+Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. Rheumatic Disease Clinics of North America, 27(2), 269–281.
 <a href="https://doi.org/10.1016/s0889-857x(05)70201-5" target="_blank">https://doi.org/10.1016/s0889-857x(05)70201-5</a>
 </p>
 
 <p>
-Liu, F., Huang, Y., Liu, F., & Wang, H. (2023). <i>Identification of immune-related genes in diagnosing atherosclerosis with rheumatoid arthritis through bioinformatics analysis and machine learning</i>. Frontiers in Immunology, 14.  
+Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., &amp; Tanabe, M. (2023). <i>KEGG: integrating viruses and cellular organisms</i>. Nucleic Acids Research, 51(D1), D587–D592.
+<a href="https://doi.org/10.1093/nar/gkac963" target="_blank">https://doi.org/10.1093/nar/gkac963</a>
+</p>
+
+<p>
+Liu, F., Huang, Y., Liu, F., &amp; Wang, H. (2023). <i>Identification of immune-related genes in diagnosing atherosclerosis with rheumatoid arthritis through bioinformatics analysis and machine learning</i>. Frontiers in Immunology, 14.
 <a href="https://doi.org/10.3389/fimmu.2023.1126647" target="_blank">https://doi.org/10.3389/fimmu.2023.1126647</a>
 </p>
 
 <p>
-Majithia, V., & Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. The American Journal of Medicine, 120(11), 936–939.  
+Love, M. I., Huber, W., &amp; Anders, S. (2014). <i>Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2</i>. Genome Biology, 15(12), 550.
+<a href="https://doi.org/10.1186/s13059-014-0550-8" target="_blank">https://doi.org/10.1186/s13059-014-0550-8</a>
+</p>
+
+<p>
+Luo, W., &amp; Brouwer, C. (2013). <i>Pathview: an R/Bioconductor package for pathway-based data integration and visualization</i>. Bioinformatics, 29(14), 1830–1831.
+<a href="https://doi.org/10.1093/bioinformatics/btt285" target="_blank">https://doi.org/10.1093/bioinformatics/btt285</a>
+</p>
+
+<p>
+Majithia, V., &amp; Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. The American Journal of Medicine, 120(11), 936–939.
 <a href="https://doi.org/10.1016/j.amjmed.2007.04.005" target="_blank">https://doi.org/10.1016/j.amjmed.2007.04.005</a>
 </p>
 
 <p>
-Radu, A.-F., & Bungău, S. G. (2021). <i>Management of Rheumatoid Arthritis: An Overview</i>. Cells, 10(11), 2857.  
+Radu, A.-F., &amp; Bungău, S. G. (2021). <i>Management of Rheumatoid Arthritis: An Overview</i>. Cells, 10(11), 2857.
 <a href="https://doi.org/10.3390/cells10112857" target="_blank">https://doi.org/10.3390/cells10112857</a>
 </p>
 
 <p>
-Yu, F., Hu, G., Li, L., Yu, B., & Liu, R. (2022). <i>Identification of key candidate genes and biological pathways in the synovial tissue of patients with rheumatoid arthritis</i>. Experimental and Therapeutic Medicine, 23(6).  
+The Gene Ontology Consortium. (2021). <i>The Gene Ontology resource: enriching a GOld mine</i>. Nucleic Acids Research, 49(D1), D325–D334.
+<a href="https://doi.org/10.1093/nar/gkaa1113" target="_blank">https://doi.org/10.1093/nar/gkaa1113</a>
+</p>
+
+<p>
+Yu, F., Hu, G., Li, L., Yu, B., &amp; Liu, R. (2022). <i>Identification of key candidate genes and biological pathways in the synovial tissue of patients with rheumatoid arthritis</i>. Experimental and Therapeutic Medicine, 23(6).
 <a href="https://doi.org/10.3892/etm.2022.11295" target="_blank">https://doi.org/10.3892/etm.2022.11295</a>
 </p>
 
 <p>
-Zhang, F., Wei, K., Slowikowski, K., et al. (2019). <i>Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry</i>. Nature Immunology, 20(7), 928–942.  
+Yu, G., Wang, L.-G., Han, Y., &amp; He, Q.-Y. (2012). <i>clusterProfiler: an R package for comparing biological themes among gene clusters</i>. OMICS: A Journal of Integrative Biology, 16(5), 284–287.
+<a href="https://doi.org/10.1089/omi.2011.0118" target="_blank">https://doi.org/10.1089/omi.2011.0118</a>
+</p>
+
+<p>
+Zhang, F., Wei, K., Slowikowski, K., Fonseka, C. Y., Rao, D. A., Kelly, S., Goodman, S. M., Tabechian, D., Hughes, L. B., Salomon-Escoto, K., Watts, G. F. M., Jonsson, A. H., Rangel-Moreno, J., Meednu, N., Rozo, C., Apruzzese, W., Eisenhaure, T. M., Lieb, D. J., Boyle, D. L., &amp; Mandelin, A. M. (2019). <i>Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry</i>. Nature Immunology, 20(7), 928–942.
 <a href="https://doi.org/10.1038/s41590-019-0378-1" target="_blank">https://doi.org/10.1038/s41590-019-0378-1</a>
 </p>
 
