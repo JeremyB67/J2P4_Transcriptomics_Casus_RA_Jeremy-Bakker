@@ -194,7 +194,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 </p>
 
 <table>
-  <caption><b>Tabel 3:</b> Kyoto Encyclopedia of Genes and Genomes pathway analysis of integrated differentially expressed genes.</caption>
+  <caption><b>Tabel 3:</b> Kyoto Encyclopedia of Genes and Genomes pathway analysis of integrated differentially expressed genes. Top 10 enriched KEGG termen.</caption>
  <thead>
     <tr>
       <th align="left">Pathway</th>
