@@ -357,7 +357,7 @@ Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerre
 </p>
 
 <p>
-De gevonden expressiepatronen en verrijkte pathways zijn consistent met eerdere transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022), waarin vergelijkbare immuun- en ontstekingsgeassocieerde processen worden beschreven. Dit ondersteunt de conclusie dat reumatoïde artritis wordt gekenmerkt door een systemische activatie van immuun- en ontstekingsroutes op transcriptomisch niveau.
+De gevonden expressiepatronen en verrijkte pathways zijn consistent met eerdere transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022; Zhang et al., 2019), waarin vergelijkbare immuun- en ontstekingsgeassocieerde processen worden beschreven. Dit ondersteunt de conclusie dat reumatoïde artritis wordt gekenmerkt door een systemische activatie van immuun- en ontstekingsroutes op transcriptomisch niveau.
 </p>
 
 ## 🤖AI Disclaimer
@@ -365,41 +365,36 @@ De gevonden expressiepatronen en verrijkte pathways zijn consistent met eerdere 
 AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoeken van wetenschapelijke artikelen, het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteur/student gecontroleerd.
 
 ## 📚Bronnen
+<p><b>References</b></p>
+
 <p>
-Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. 
-Rheumatic Disease Clinics of North America, 27(2), 269–281. 
-<a href="https://doi.org/10.1016/S0889-857X(05)70201-5" target="_blank">https://doi.org/10.1016/S0889-857X(05)70201-5</a>
+Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. Rheumatic Disease Clinics of North America, 27(2), 269–281.  
+<a href="https://doi.org/10.1016/s0889-857x(05)70201-5" target="_blank">https://doi.org/10.1016/s0889-857x(05)70201-5</a>
 </p>
 
 <p>
-Liu, F., Huang, Y., Liu, F., & Wang, H. (2023). <i>Identification of immune-related genes in diagnosing atherosclerosis with rheumatoid arthritis through bioinformatics analysis and machine learning</i>. 
-Frontiers in Immunology, 14, 1126647. 
+Liu, F., Huang, Y., Liu, F., & Wang, H. (2023). <i>Identification of immune-related genes in diagnosing atherosclerosis with rheumatoid arthritis through bioinformatics analysis and machine learning</i>. Frontiers in Immunology, 14.  
 <a href="https://doi.org/10.3389/fimmu.2023.1126647" target="_blank">https://doi.org/10.3389/fimmu.2023.1126647</a>
 </p>
 
 <p>
-Majithia, V., & Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. 
-The American Journal of Medicine, 120(11), 936–939. 
+Majithia, V., & Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. The American Journal of Medicine, 120(11), 936–939.  
 <a href="https://doi.org/10.1016/j.amjmed.2007.04.005" target="_blank">https://doi.org/10.1016/j.amjmed.2007.04.005</a>
 </p>
 
 <p>
-Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., & Aletaha, D. (2019). 
-<i>Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns</i>. 
-PLOS ONE, 14(7). 
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218885" target="_blank">https://doi.org/10.1371/journal.pone.0218885</a>
-</p>
-
-<p>
-Radu, A.-F., & Bungău, S. G. (2021). <i>Management of Rheumatoid Arthritis: An Overview</i>. 
-Cells, 10(11), 2857. 
+Radu, A.-F., & Bungău, S. G. (2021). <i>Management of Rheumatoid Arthritis: An Overview</i>. Cells, 10(11), 2857.  
 <a href="https://doi.org/10.3390/cells10112857" target="_blank">https://doi.org/10.3390/cells10112857</a>
 </p>
 
 <p>
-Wang, Y., et al. (2022). <i>Bioinformatics analysis of rheumatoid arthritis-related genes and signaling pathways</i>. 
-Experimental and Therapeutic Medicine. 
+Yu, F., Hu, G., Li, L., Yu, B., & Liu, R. (2022). <i>Identification of key candidate genes and biological pathways in the synovial tissue of patients with rheumatoid arthritis</i>. Experimental and Therapeutic Medicine, 23(6).  
 <a href="https://doi.org/10.3892/etm.2022.11295" target="_blank">https://doi.org/10.3892/etm.2022.11295</a>
+</p>
+
+<p>
+Zhang, F., Wei, K., Slowikowski, K., et al. (2019). <i>Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry</i>. Nature Immunology, 20(7), 928–942.  
+<a href="https://doi.org/10.1038/s41590-019-0378-1" target="_blank">https://doi.org/10.1038/s41590-019-0378-1</a>
 </p>
 
 ## 🌐URL's
