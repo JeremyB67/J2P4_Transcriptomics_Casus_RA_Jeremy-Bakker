@@ -138,11 +138,19 @@
     laagste_fold_change <- resultaten[order(resultaten$log2FoldChange, decreasing = FALSE), ]
     laagste_p_waarde <- resultaten[order(resultaten$padj, decreasing = FALSE), ]
     
-# Stap 14 — Visualisatie: volcano plot----
+# Stap 14 — Visualisatie: PCA en volcano plot----
   EnhancedVolcano(resultaten,
                   lab = rownames(resultaten),
                   x = 'log2FoldChange',
                   y = 'padj')
+    
+  EnhancedVolcano(resultaten,
+                  lab = rownames(resultaten),
+                  x = 'log2FoldChange',
+                  y = 'padj',
+                  pCutoff = 0.05,
+                  FCcutoff = 1)
+  nrow(sig_genes)
   
         dev.copy(png, 'Volcanoplot_RA_2.png', 
                  width = 8,
@@ -150,6 +158,14 @@
                  units = 'in',
                  res = 500)
         dev.off()  
+        
+        
+  vsd <- vst(dds, blind = FALSE)
+  plotPCA(vsd, intgroup = "treatment")
+  
+  png("PCA_Reuma.png", width = 8, height = 6, units = "in", res = 300)
+  plotPCA(vsd, intgroup = "treatment")
+    dev.off()
  
 # GO-analyse-----------------------------------------------------------------------------------------------------
 # Stap 1 — Significante genen selecteren----
