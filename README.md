@@ -1,4 +1,4 @@
-# J2P4_Transcriptomics_Casus_Reumatoïde-artritis
+# J2P4_Transcriptomics_Casus_Reumatoïde-artritis_Jeremy-Bakker
 <div class="inhoudsopgave">
 <h2>Inhoudsopgave</h2>
 <ul>
