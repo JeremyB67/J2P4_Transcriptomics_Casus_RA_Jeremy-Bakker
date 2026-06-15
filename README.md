@@ -342,6 +342,7 @@ De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, 
 De visualisatie van de rheumatoid arthritis pathway (hsa05323) toonde zowel op- als neerregulatie van genen binnen de pathway. Onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie in de RA-groep dan de NORM-groep <strong>[Figuur 5]</strong>.
 </p>
 
+<br>
 
 ## 📚Conclusie
 <p>
