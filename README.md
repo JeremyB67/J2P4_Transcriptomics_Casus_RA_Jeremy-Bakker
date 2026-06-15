@@ -1,5 +1,28 @@
 # J2P4_Transcriptomics_Casus_Reumatoïde-artritis
-## 📁Inhoud/Structuur
+<div class="inhoudsopgave">
+<h2>Inhoudsopgave</h2>
+<ul>
+    <li><a href="#📁Inhoud/Structuur">1. 📁Inhoud/Structuur</a></li>
+    <li><a href="#📝Inleiding">2. 📝Inleiding</a></li>
+    <li><a href="#📑Methode">3. 📑Methode</a></li>
+    <li><a href="#📊Resultatenn">4. 📊Resultaten</a>
+        <ul>
+            <li><a href="#PCA & Volcanoplot">4.1 PCA & Volcanoplot</a></li>
+            <li><a href="#go">4.2 GO Biological Process-analyse</a></li>
+            <li><a href="#kegg">4.3 KEGG Pathway-analyse</a></li>
+        </ul>
+    </li>
+    <li><a href="#📚Conclusie">5. 📚Conclusie</a></li>
+    <li><a href="#📚Bronnen">6. 📚Bronnen</a></li>
+       <ul>
+          <li><a href="#🤖AI Disclaimer">I. 🤖AI Disclaimer</a></li>
+          <li><a href="#🌐URL's">II. 🌐URL's</a></li>
+      </ul>
+</div>
+
+<br>
+  
+## 1. 📁Inhoud/Structuur
 
 - `data/raw` - Ruwe datasets voor de analyse van de reuma casus.
 - `data/processed` - Verwerkte datasets gegenereerd met scripts in R.
@@ -9,7 +32,9 @@
 - `assets/` - Overige documenten 
 - `data_stewardship/` - Beheren van de competentie........
 
-## 📝Inleiding
+<br>
+
+## 2. 📝Inleiding
 
 Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die voornamelijk de gewrichten aantast. De exacte oorzaak van de ziekte is nog niet volledig opgehelderd, maar er wordt aangenomen dat een combinatie van genetische aanleg, omgevingsfactoren en ontregeling van het immuunsysteem een belangrijke rol speelt (Gabriel, 2001). Een kenmerkend verschijnsel van RA is synovitis, een ontsteking van het gewrichtsslijmvlies (synovium), die kan leiden tot progressieve gewrichtsschade en functieverlies (Radu & Bungau, 2021).
 
@@ -17,7 +42,9 @@ De diagnose van RA wordt doorgaans gesteld op basis van klinische symptomen en d
 
 Transcriptomics biedt de mogelijkheid om veranderingen in genexpressie op grote schaal te onderzoeken. Door transcriptoomdata van RA-patiënten te vergelijken met die van gezonde controles kunnen genen, biologische processen en signaalroutes worden geïdentificeerd die betrokken zijn bij het ontstaan en de progressie van de ziekte. Hierdoor kan transcriptomics bijdragen aan een beter begrip van de onderliggende moleculaire mechanismen van reumatoïde artritis.
 
-## 📑Methode
+<br>
+
+## 3. 📑Methode
 
 Reumatoïde artritis (RA) is een systemische auto-immuunziekte die wordt gekenmerkt door chronische ontsteking van het gewrichtsslijmvlies (synovitis), wat kan leiden tot progressieve gewrichtsschade. Transcriptomics kan worden ingezet om genexpressieverschillen tussen patiënten en gezonde controles te onderzoeken en zo inzicht te verkrijgen in de moleculaire mechanismen die betrokken zijn bij de ziekte.
 
@@ -26,7 +53,6 @@ Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig
 De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 met behulp van het Rsubread package. Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (Love et al., 2014). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) (The Gene Ontology Consortium, 2021) en KEGG-pathwayanalyses (Kanehisa et al., 2023), met behulp van clusterProfiler (Yu et al., 2012). Waarna relevante pathways werden gevisualiseerd met Pathview (Luo & Brouwer, 2013). Zie figuur 1.
 
 <br>
-
 <table>
   <caption><b>Tabel 1:</b> Overzicht samples uit onderzoek van Platzer et al. (2019)</caption>
  <thead>
@@ -92,9 +118,11 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
   <em><b>Figuur 1. </b>RNA-seq analysepipeline. Overzicht van de bioinformatische workflow voor de verwerking van RNA-seq data, beginnend bij FASTQ-reads en referentiegenoom, gevolgd door read alignment, BAM-verwerking en genkwantificatie. De resulterende count matrix werd gebruikt voor differentiële expressieanalyse met DESeq2. Significant tot expressie komende genen werden vervolgens geanalyseerd via GO- en KEGG-enrichment en gevisualiseerd met Pathview. Gemaakt met Microsoft Visio</em>
 </p>
 
-## 📊Resultaten
+<br>
 
-### PCA & Volcanoplot
+## 4. 📊Resultaten
+
+### 4.1 PCA & Volcanoplot
 <p align="center">
   <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/5fe39c2b-a0a4-4d8c-83c8-1701e41013a5" />
   <br>
@@ -105,7 +133,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 <br>
 
-### GO-analyse
+### 4.2 GO-analyse
 
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/52b4c630-b1e5-4a0d-a2ad-ce74ffef325d" />
@@ -183,7 +211,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
   <br>
 
-### KEGG-analyse
+### 4.3 KEGG-analyse
 
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/eacb2306-60a2-4149-87d2-cacc6c705f60" />
@@ -271,7 +299,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 
 <br>
 
-### KEGG Rheumatoid Arthritis pathway (hsa05323)
+### 4.4 KEGG Rheumatoid Arthritis pathway (hsa05323)
 
 <p align="center">
   <img width="1492" height="859" alt="Image" src="https://github.com/user-attachments/assets/f9a53300-8888-4aec-b10e-5d0c91c82e57" />
@@ -344,7 +372,7 @@ De visualisatie van de rheumatoid arthritis pathway (hsa05323) toonde zowel op- 
 
 <br>
 
-## 📚Conclusie
+## 5. 📚Conclusie
 <p>
 De transcriptomische analyse toont duidelijke verschillen tussen de NORM- en RA-groep, wat wijst op een brede verstoring in genexpressie bij reumatoïde artritis. In totaal werden 4.486 genen geïdentificeerd als differentieel geëxpresseerd (padj < 0.05 en |log2 fold change| > 1), wat duidt op significante moleculaire verschillen tussen beide condities.
 </p>
@@ -363,7 +391,7 @@ De gevonden expressiepatronen en verrijkte pathways zijn consistent met eerdere 
 
 <br>
 
-## 📚Bronnen
+## 6. 📚Bronnen
 
 <p><b>References</b></p>
 
@@ -424,12 +452,12 @@ Zhang, F., Wei, K., Slowikowski, K., Fonseka, C. Y., Rao, D. A., Kelly, S., Good
 
 <br>
 
-## 🤖AI Disclaimer
+## I. 🤖AI Disclaimer
 AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoeken van wetenschapelijke artikelen, het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteur/student gecontroleerd.
 
 <br>
 
-## 🌐URL's
+## II. 🌐URL's
 - https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
 
