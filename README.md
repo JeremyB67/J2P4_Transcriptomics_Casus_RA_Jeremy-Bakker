@@ -360,9 +360,7 @@ Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerre
 De gevonden expressiepatronen en verrijkte pathways zijn consistent met eerdere transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022; Zhang et al., 2019), waarin vergelijkbare immuun- en ontstekingsgeassocieerde processen worden beschreven. Dit ondersteunt de conclusie dat reumatoïde artritis wordt gekenmerkt door een systemische activatie van immuun- en ontstekingsroutes op transcriptomisch niveau.
 </p>
 
-## 🤖AI Disclaimer
-
-AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoeken van wetenschapelijke artikelen, het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteur/student gecontroleerd.
+<br>
 
 ## 📚Bronnen
 
@@ -422,6 +420,13 @@ Yu, G., Wang, L.-G., Han, Y., &amp; He, Q.-Y. (2012). <i>clusterProfiler: an R p
 Zhang, F., Wei, K., Slowikowski, K., Fonseka, C. Y., Rao, D. A., Kelly, S., Goodman, S. M., Tabechian, D., Hughes, L. B., Salomon-Escoto, K., Watts, G. F. M., Jonsson, A. H., Rangel-Moreno, J., Meednu, N., Rozo, C., Apruzzese, W., Eisenhaure, T. M., Lieb, D. J., Boyle, D. L., &amp; Mandelin, A. M. (2019). <i>Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry</i>. Nature Immunology, 20(7), 928–942.
 <a href="https://doi.org/10.1038/s41590-019-0378-1" target="_blank">https://doi.org/10.1038/s41590-019-0378-1</a>
 </p>
+
+<br>
+
+## 🤖AI Disclaimer
+AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoeken van wetenschapelijke artikelen, het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteur/student gecontroleerd.
+
+<br>
 
 ## 🌐URL's
 - https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
