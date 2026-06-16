@@ -120,6 +120,10 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 ## 4. 📊Resultaten
 
 ### 4.1 PCA & Volcanoplot
+<p>
+De transcriptomische analyse omvatte in totaal 29.407 genen. PCA-analyse toonde een duidelijke scheiding tussen de NORM- en RA-groep op basis van de eerste twee hoofdcomponenten, die respectievelijk 74% en 10% van de totale variantie verklaarden, wat wijst op duidelijke verschillen in genexpressieprofielen tussen beide groepen. Differentiële expressieanalyse identificeerde 4.486 genen die voldeden aan de criteria voor significante expressieverschillen (padj < 0.05 en |log2 fold change| > 1). De volcano plot visualiseert deze verdeling, waarbij genen met een significante verandering in expressie en statistische significantie worden onderscheiden van niet-significante genen. Zowel sterk opgereguleerde als neerreguleerde genen werden waargenomen, wat duidt op brede transcriptomische veranderingen tussen de NORM- en RA-groep <strong>[Figuur 2]</strong>.
+</p>
+
 <p align="center">
   <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/5fe39c2b-a0a4-4d8c-83c8-1701e41013a5" />
   <br>
@@ -354,9 +358,7 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
 </table>
 
 <br>
-<p>
-De transcriptomische analyse omvatte in totaal 29.407 genen. PCA-analyse toonde een duidelijke scheiding tussen de NORM- en RA-groep op basis van de eerste twee hoofdcomponenten, die respectievelijk 74% en 10% van de totale variantie verklaarden, wat wijst op duidelijke verschillen in genexpressieprofielen tussen beide groepen. Differentiële expressieanalyse identificeerde 4.486 genen die voldeden aan de criteria voor significante expressieverschillen (padj < 0.05 en |log2 fold change| > 1). De volcano plot visualiseert deze verdeling, waarbij genen met een significante verandering in expressie en statistische significantie worden onderscheiden van niet-significante genen. Zowel sterk opgereguleerde als neerreguleerde genen werden waargenomen, wat duidt op brede transcriptomische veranderingen tussen de NORM- en RA-groep <strong>[Figuur 2]</strong>.
-</p>
+
 <p>
 De GO Biological Process-verrijkingsanalyse liet een significante verrijking van immuungerelateerde processen zien, waaronder lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie <strong>[Figuur 3]</strong>.
 </p>
