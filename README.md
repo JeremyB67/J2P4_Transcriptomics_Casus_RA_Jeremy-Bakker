@@ -393,8 +393,6 @@ De gevonden expressiepatronen en verrijkte pathways zijn consistent met eerdere 
 
 ## 6. 📚Bronnen
 
-<p><b>References</b></p>
-
 <p>
 Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. Rheumatic Disease Clinics of North America, 27(2), 269–281.
 <a href="https://doi.org/10.1016/s0889-857x(05)70201-5" target="_blank">https://doi.org/10.1016/s0889-857x(05)70201-5</a>
