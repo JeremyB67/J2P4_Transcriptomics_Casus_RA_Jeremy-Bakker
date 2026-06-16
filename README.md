@@ -40,13 +40,10 @@ Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die vo
 
 De diagnose van RA wordt doorgaans gesteld op basis van klinische symptomen en de aanwezigheid van specifieke autoantilichamen, waaronder anti-cyclische gecitrullineerde peptiden (ACPA). Vroege detectie van de ziekte is van groot belang, aangezien tijdige behandeling de progressie van gewrichtsschade kan vertragen. Hoewel er momenteel geen genezende behandeling beschikbaar is, kunnen verschillende therapieën de symptomen verminderen en de ziekteactiviteit onder controle houden (Majithia & Geraci, 2007).
 
-Transcriptomics biedt de mogelijkheid om veranderingen in genexpressie op grote schaal te onderzoeken. Door transcriptoomdata van RA-patiënten te vergelijken met die van gezonde controles kunnen genen, biologische processen en signaalroutes worden geïdentificeerd die betrokken zijn bij het ontstaan en de progressie van de ziekte. Hierdoor kan transcriptomics bijdragen aan een beter begrip van de onderliggende moleculaire mechanismen van reumatoïde artritis.
 
 <br>
 
 ## 3. 📑Methode
-
-Reumatoïde artritis (RA) is een systemische auto-immuunziekte die wordt gekenmerkt door chronische ontsteking van het gewrichtsslijmvlies (synovitis), wat kan leiden tot progressieve gewrichtsschade. Transcriptomics kan worden ingezet om genexpressieverschillen tussen patiënten en gezonde controles te onderzoeken en zo inzicht te verkrijgen in de moleculaire mechanismen die betrokken zijn bij de ziekte.
 
 Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van Platzer et al. (2019). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was. Zie tabel 1 voor overzicht samples Platzer et al. (2019).
 
