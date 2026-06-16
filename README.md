@@ -135,11 +135,14 @@ De transcriptomische analyse omvatte in totaal 29.407 genen. PCA-analyse toonde 
 <br>
 
 ### 4.2 GO-analyse
-
+<p>
+De GO Biological Process-verrijkingsanalyse liet een significante verrijking van immuungerelateerde processen zien, waaronder lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie <strong>[Figuur 3]</strong>.
+</p>
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/52b4c630-b1e5-4a0d-a2ad-ce74ffef325d" />
   <br>
 </p>
+
 <p align="left">
   <em><b>Figuur 3. </b> GO Biological Process-verrijkingsanalyse van differentieel geëxpresseerde genen bij reumatoïde artritis. De analyse toont significante verrijking van processen gerelateerd aan lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie.</em>
 </p>
@@ -213,6 +216,9 @@ De transcriptomische analyse omvatte in totaal 29.407 genen. PCA-analyse toonde 
   <br>
 
 ### 4.3 KEGG-analyse
+<p>
+De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, waaronder de rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij ontstekingssignalering, immuunactivatie en adaptieve immuunrespons <strong>[Figuur 4]</strong>.
+</p>
 
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/eacb2306-60a2-4149-87d2-cacc6c705f60" />
@@ -301,6 +307,9 @@ De transcriptomische analyse omvatte in totaal 29.407 genen. PCA-analyse toonde 
 <br>
 
 ### 4.4 KEGG Rheumatoid Arthritis pathway (hsa05323)
+<p>
+De visualisatie van de rheumatoid arthritis pathway (hsa05323) toonde zowel op- als neerregulatie van genen binnen de pathway. Onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie in de RA-groep dan de NORM-groep <strong>[Figuur 5]</strong>.
+</p>
 
 <p align="center">
   <img width="1492" height="859" alt="Image" src="https://github.com/user-attachments/assets/f9a53300-8888-4aec-b10e-5d0c91c82e57" />
@@ -356,18 +365,6 @@ De transcriptomische analyse omvatte in totaal 29.407 genen. PCA-analyse toonde 
     </tr>
   </tbody>
 </table>
-
-<br>
-
-<p>
-De GO Biological Process-verrijkingsanalyse liet een significante verrijking van immuungerelateerde processen zien, waaronder lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie <strong>[Figuur 3]</strong>.
-</p>
-<p>
-De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, waaronder de rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij ontstekingssignalering, immuunactivatie en adaptieve immuunrespons <strong>[Figuur 4]</strong>.
-</p>
-<p>
-De visualisatie van de rheumatoid arthritis pathway (hsa05323) toonde zowel op- als neerregulatie van genen binnen de pathway. Onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie in de RA-groep dan de NORM-groep <strong>[Figuur 5]</strong>.
-</p>
 
 <br>
 
