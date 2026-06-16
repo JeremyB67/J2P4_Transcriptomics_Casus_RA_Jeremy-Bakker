@@ -50,7 +50,7 @@ Reumatoïde artritis (RA) is een systemische auto-immuunziekte die wordt gekenme
 
 Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van Platzer et al. (2019). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was. Zie tabel 1 voor overzicht samples Platzer et al. (2019).
 
-De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 met behulp van het Rsubread package. Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (Love et al., 2014). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) (The Gene Ontology Consortium, 2021) en KEGG-pathwayanalyses (Kanehisa et al., 2023), met behulp van clusterProfiler (Yu et al., 2012). Waarna relevante pathways werden gevisualiseerd met Pathview (Luo & Brouwer, 2013). Zie figuur 1.
+De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 (NCBI, 2026) met behulp van het Rsubread package (V2.24.0). Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (V1.50.2)(Love et al., 2014). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) (The Gene Ontology Consortium, 2021) en KEGG-pathwayanalyses (Kanehisa et al., 2023), met behulp van clusterProfiler (V4.18.4)(Yu et al., 2012). Waarna relevante pathways werden gevisualiseerd met Pathview (V1.50.0)(Luo & Brouwer, 2013). Zie figuur 1.
 
 <br>
 <table>
@@ -421,6 +421,13 @@ Luo, W., &amp; Brouwer, C. (2013). <i>Pathview: an R/Bioconductor package for pa
 <p>
 Majithia, V., &amp; Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. The American Journal of Medicine, 120(11), 936–939.
 <a href="https://doi.org/10.1016/j.amjmed.2007.04.005" target="_blank">https://doi.org/10.1016/j.amjmed.2007.04.005</a>
+</p>
+
+<p>
+NCBI. (2026). <i>Homo sapiens genome assembly GRCh38.p14</i>. NCBI.
+<a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/" target="_blank">
+Retrieved from NCBI Dataset
+</a>
 </p>
 
 <p>
