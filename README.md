@@ -40,6 +40,13 @@ Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die vo
 
 De diagnose van RA wordt doorgaans gesteld op basis van klinische symptomen en de aanwezigheid van specifieke autoantilichamen, waaronder anti-cyclische gecitrullineerde peptiden (ACPA). Vroege detectie van de ziekte is van groot belang, aangezien tijdige behandeling de progressie van gewrichtsschade kan vertragen. Hoewel er momenteel geen genezende behandeling beschikbaar is, kunnen verschillende therapieën de symptomen verminderen en de ziekteactiviteit onder controle houden [(Majithia & Geraci, 2007)](https://doi.org/10.1016/j.amjmed.2007.04.005).
 
+### Hoofdvraag: 
+- Welke transcriptomische verschillen bestaan er tussen patiënten met reumatoïde artritis en gezonde controles, en welke biologische processen en signaalroutes zijn hierbij betrokken?
+
+### Deelvragen: 
+- In welke mate verschillen de genexpressieprofielen van RA-patiënten en gezonde controles? 
+- Welke genen zijn significant differentieel geëxpresseerd tussen beide groepen? Welke biologische processen zijn verrijkt onder de differentieel geëxpresseerde genen? 
+- Welke signaalroutes zijn geassocieerd met de differentieel geëxpresseerde genen?
 
 <br>
 
