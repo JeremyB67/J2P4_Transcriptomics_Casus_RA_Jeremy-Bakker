@@ -378,7 +378,7 @@ Verrijkingsanalyses op basis van GO Biological Process en KEGG pathways laten zi
 </p>
 
 <p>
-Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerregulatie van genen waargenomen, met verhoogde expressie van onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL. Deze genen zijn betrokken bij inflammatoire signalering, immuunregulatie en weefselremodellering en wijzen op verstoringen in immuun- en ontstekingsroutes binnen RA.
+Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerregulatie van genen waargenomen. Genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL waren verhoogd geëxpresseerd en zijn betrokken bij ontstekingsprocessen, immuunresponsen en weefselafbraak, processen die kenmerkend zijn voor reumatoïde artritis (Komatsu & Takayanagi, 2022; Nandakumar et al., 2023).
 </p>
 
 <p>
