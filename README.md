@@ -113,7 +113,7 @@ De bio-informatische analyse werd uitgevoerd in R Studio (V4.5.2). Sequencing re
 <br>
 
 <p align="center">
-  <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/8ea2d7a5-98ab-459f-88da-a5d841bb0c4c" />
+  <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/392fa4c2-3e95-4958-b41f-7f0782ea16be" />
   <br>
 </p>
 <p align="left">
