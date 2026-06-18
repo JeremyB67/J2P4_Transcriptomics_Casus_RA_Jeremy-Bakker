@@ -1,4 +1,4 @@
-# J2P4_Transcriptomics_Casus_Reumatoïde-artritis_Jeremy-Bakker
+# Transcriptomische analyse toont duidelijke immuunactivatie en verrijkte ontstekingsroutes bij Reumatoïde artritis
 
 ## 👨‍💼Gegevens
 <p>
