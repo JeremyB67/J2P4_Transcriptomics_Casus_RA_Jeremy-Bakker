@@ -1,4 +1,7 @@
 # Transcriptomische analyse toont duidelijke immuunactivatie en verrijkte ontstekingsroutes bij Reumatoïde artritis
+<p align="center">
+  <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/debe54fc-33e3-489a-8007-17319aae4696" />
+</p>
 
 ## 👨‍💼Gegevens
 
@@ -487,4 +490,9 @@ AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoe
 ## II. 🌐URL's
 - https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
+
+### Bronnen voor het maken afbeelding
+- https://popculturereferences.com/when-did-house-first-say-its-never-lupus/
+- https://online-fonts.com/fonts/house-md
+
 
