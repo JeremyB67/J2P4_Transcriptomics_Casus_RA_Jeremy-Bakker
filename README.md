@@ -52,7 +52,7 @@ De diagnose van RA wordt doorgaans gesteld op basis van klinische symptomen en d
 
 Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van [Platzer et al. (2019)](https://doi.org/10.1371/journal.pone.0219698). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was. Zie tabel 1 voor overzicht samples [Platzer et al. (2019)](https://doi.org/10.1371/journal.pone.0219698).
 
-De bio-informatische analyse werd uitgevoerd in R Studio (V4.5.2). Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 [(NCBI, 2026)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/) met behulp van het Rsubread package (V2.24.0)[(Liao et al., 2019)](https://doi.org/10.1093/nar/gkz114). Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (V1.50.2)[(Love et al., 2014)](https://doi.org/10.1186/s13059-014-0550-8). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) [(Carbon et al., 2020)](https://doi.org/10.1093/nar/gkaa1113) en KEGG-pathwayanalyses [(Kanehisa et al., 2023)](https://doi.org/10.1093/nar/gkac963), met behulp van clusterProfiler (V4.18.4)[(Yu et al., 2012)](https://doi.org/10.1089/omi.2011.0118). Waarna relevante pathways werden gevisualiseerd met Pathview (V1.50.0)[(Luo & Brouwer, 2013)](https://doi.org/10.1093/bioinformatics/btt285). Zie figuur 1.
+De bio-informatische analyse werd uitgevoerd in R Studio (V4.5.2). Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 [(NCBI, 2026)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/) met behulp van het Rsubread package (V2.24.0)[(Liao et al., 2019)](https://doi.org/10.1093/nar/gkz114). Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (V1.50.2)[(Love et al., 2014)](https://doi.org/10.1186/s13059-014-0550-8). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) [(Carbon et al., 2020)](https://doi.org/10.1093/nar/gkaa1113) en KEGG-pathwayanalyses [(Kanehisa et al., 2023)](https://doi.org/10.1093/nar/gkac963), met behulp van clusterProfiler (V4.18.4)[(Yu et al., 2012)](https://doi.org/10.1089/omi.2011.0118). Waarna relevante pathways werden gevisualiseerd met Pathview (V1.50.0)[(Luo & Brouwer, 2013)](https://doi.org/10.1093/bioinformatics/btt285). Zie <strong>[Figuur 1]</strong>.
 
 <br>
 <table>
@@ -117,7 +117,7 @@ De bio-informatische analyse werd uitgevoerd in R Studio (V4.5.2). Sequencing re
   <br>
 </p>
 <p align="left">
-  <em><b>Figuur 1. </b>RNA-seq analysepipeline. Overzicht van de bioinformatische workflow voor de verwerking van RNA-seq data, beginnend bij FASTQ-reads en referentiegenoom, gevolgd door read alignment, BAM-verwerking en genkwantificatie. De resulterende count matrix werd gebruikt voor differentiële expressieanalyse met DESeq2. Significant tot expressie komende genen werden vervolgens geanalyseerd via GO- en KEGG-enrichment en gevisualiseerd met Pathview. Gemaakt met Microsoft Visio</em>
+  <em><b>Figuur 1. </b>RNA-seq analysepipeline. Overzicht van de bioinformatische workflow voor de verwerking van RNA-seq data, beginnend bij FASTQ-reads en referentiegenoom, gevolgd door read alignment, BAM-verwerking en genkwantificatie. De resulterende count matrix werd gebruikt voor differentiële expressieanalyse met DESeq2. Significant tot expressie komende genen werden vervolgens geanalyseerd via GO- en KEGG-enrichment en gevisualiseerd met Pathview. Gemaakt met Microsoft Visio.</em>
 </p>
 
 <br>
@@ -141,7 +141,7 @@ De transcriptomische analyse omvatte in totaal 29.407 genen. PCA-analyse toonde 
 
 ### 4.2 GO-analyse
 <p>
-De GO Biological Process-verrijkingsanalyse liet een significante verrijking van immuungerelateerde processen zien, waaronder lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie <strong>[Figuur 3]</strong>.
+De GO Biological Process-verrijkingsanalyse liet een significante verrijking van immuungerelateerde processen zien, waaronder lymfocytdifferentiatie, adaptieve immuunrespons, lymfocyt-gemedieerde immuniteit, antigeenreceptor-gemedieerde signaaltransductie en B-celactivatie <strong>[Figuur 3]</strong> en <strong>[Tabel 2]</strong>.
 </p>
 <p align="center">
   <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/52b4c630-b1e5-4a0d-a2ad-ce74ffef325d" />
@@ -222,7 +222,7 @@ De GO Biological Process-verrijkingsanalyse liet een significante verrijking van
 
 ### 4.3 KEGG-analyse
 <p>
-De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, waaronder de rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij ontstekingssignalering, immuunactivatie en adaptieve immuunrespons <strong>[Figuur 4]</strong>.
+De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, waaronder de rheumatoid arthritis pathway, TNF signaling pathway, IL-17 signaling pathway, NF-kappa B signaling pathway en Th17 cell differentiation. Deze pathways zijn betrokken bij ontstekingssignalering, immuunactivatie en adaptieve immuunrespons zie <strong>[Figuur 4]</strong> en <strong>[Tabel 3]</strong>.
 </p>
 
 <p align="center">
@@ -313,7 +313,7 @@ De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, 
 
 ### 4.4 KEGG Rheumatoid Arthritis pathway (hsa05323)
 <p>
-De visualisatie van de rheumatoid arthritis pathway (hsa05323) is afzonderlijk gevisualiseerd met Pathview en toonde zowel op- als neerregulatie van genen binnen de pathway. Onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie in de RA-groep dan de NORM-groep <strong>[Figuur 5]</strong>.
+De visualisatie van de rheumatoid arthritis pathway (hsa05323) is afzonderlijk gevisualiseerd met Pathview en toonde zowel op- als neerregulatie van genen binnen de pathway. Onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie in de RA-groep dan de NORM-groep zie <strong>[Figuur 5]</strong> en <strong>[Tabel 4]</strong>.
 </p>
 
 <p align="center">
