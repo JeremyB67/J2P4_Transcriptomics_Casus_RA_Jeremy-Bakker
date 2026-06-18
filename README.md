@@ -1,14 +1,24 @@
 # J2P4_Transcriptomics_Casus_Reumatoïde-artritis_Jeremy-Bakker
 
 ## 👨‍💼Gegevens
-
-Naam: Jeremy Bakker 
+<p>
+Naam: Jeremy Bakker
+</p>
+<p>
 Student nummer: 5553121
+</p>
+<p>
 Klas: LBM2-B
+</p>
+<p>
 Studie: Biologie en Medisch Laboratoriumonderzoek - NHL Stenden / Van Hall Larenstein Leeuwarden
+</p>
+<p>
 Periode code: 25-26 J2P4_BM Innovatieve Diagnostiek TD-2526-0754
+</p>
+<p>
 Tutor: Dewi van der Bergh
-
+</p>
   
 ## 1. 📁Inhoud/Structuur
 
