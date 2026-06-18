@@ -60,51 +60,51 @@ De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemap
  <thead>
     <tr>
       <th align="left">FASTQ</th>
-      <th align="left">Leeftijd</th>
-      <th align="left">Geslacht</th>
+      <th align="center">Leeftijd</th>
+      <th align="center">Geslacht</th>
       <th align="left">Groep</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="left"><b>SRR4785819</b></td>
-      <td align="left">31</td>
-      <td align="left">female</td>
+      <td align="center">31</td>
+      <td align="center">female</td>
       <td align="left">Normal</td>
     </tr>
       <td align="left"><b>SRR4785820</b></td>
-      <td align="left">15</td>
-      <td align="left">female</td>
+      <td align="center">15</td>
+      <td align="center">female</td>
       <td align="left">Normal</td>
     </tr>
       <td align="left"><b>SRR4785828</b></td>
-      <td align="left">31</td>
-      <td align="left">female</td>
+      <td align="center">31</td>
+      <td align="center">female</td>
       <td align="left">Normal</td>
     </tr>
       <td align="left"><b>SRR4785831</b></td>
-      <td align="left">42</td>
-      <td align="left">female</td>
+      <td align="center">42</td>
+      <td align="center">female</td>
       <td align="left">Normal</td>
     </tr>
       <td align="left"><b>SRR4785979</b></td>
-      <td align="left">54</td>
-      <td align="left">female</td>
+      <td align="center">54</td>
+      <td align="center">female</td>
       <td align="left">Rheumatoid arthritis (established)</td>
     </tr>
       <td align="left"><b>SRR4785980</b></td>
-      <td align="left">66</td>
-      <td align="left">female</td>
+      <td align="center">66</td>
+      <td align="center">female</td>
       <td align="left">Rheumatoid arthritis (established)</td>
     </tr>
       <td align="left"><b>SRR4785986</b></td>
-      <td align="left">60</td>
-      <td align="left">female</td>
+      <td align="center">60</td>
+      <td align="center">female</td>
       <td align="left">Rheumatoid arthritis (established)</td>
     </tr>
       <td align="left"><b>SRR4785988</b></td>
-      <td align="left">59</td>
-      <td align="left">female</td>
+      <td align="center">59</td>
+      <td align="center">female</td>
       <td align="left">Rheumatoid arthritis (established)</td>
     </tr>
   </tbody>
@@ -157,7 +157,7 @@ De GO Biological Process-verrijkingsanalyse liet een significante verrijking van
   <caption><b>Tabel 2:</b> Top 10 enriched GO termen</caption>
  <thead>
     <tr>
-      <th align="left">Category</th>
+      <th align="center">Category</th>
       <th align="left">Term</th>
       <th align="left">Count</th>
       <th align="left">Adjusted p-value</th>
@@ -165,55 +165,55 @@ De GO Biological Process-verrijkingsanalyse liet een significante verrijking van
   </thead>
   <tbody>
     <tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">lymphocyte differentiation</td>
-      <td align="left">164</td>
-      <td align="left">4.78 × 10<sup>-10</sup></td>
+      <td align="center">164</td>
+      <td align="center">4.78 × 10<sup>-10</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains</td>
-      <td align="left">151</td>
-      <td align="left">2.36 × 10<sup>-10</sup></td>
+      <td align="center">151</td>
+      <td align="center">2.36 × 10<sup>-10</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">lymphocyte mediated immunity</td>
-      <td align="left">137</td>
-      <td align="left">1.10 × 10<sup>-7</sup></td>
+      <td align="center">137</td>
+      <td align="center">1.10 × 10<sup>-7</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">leukocyte proliferation</td>
-      <td align="left">125</td>
-      <td align="left">1.36 × 10<sup>-6</sup></td>
+      <td align="center">125</td>
+      <td align="center">1.36 × 10<sup>-6</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">lymphocyte proliferation</td>
-      <td align="left">113</td>
-      <td align="left">1.36 × 10<sup>-6</sup></td>
+      <td align="center">113</td>
+      <td align="center">1.36 × 10<sup>-6</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">B cell activation</td>
-      <td align="left">108</td>
-      <td align="left">9.48 × 10<sup>-7</sup></td>
+      <td align="center">108</td>
+      <td align="center">9.48 × 10<sup>-7</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">cellular response to biotic stimulus</td>
-      <td align="left">99</td>
-      <td align="left">9.25 × 10<sup>-7</sup></td>
+      <td align="center">99</td>
+      <td align="center">9.25 × 10<sup>-7</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">cellular response to molecule of bacterial origin</td>
-      <td align="left">92</td>
-      <td align="left">4.83 × 10<sup>-7</sup></td>
+      <td align="center">92</td>
+      <td align="center">4.83 × 10<sup>-7</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">antigen receptor-mediated signaling pathway</td>
-      <td align="left">91</td>
-      <td align="left">7.16 × 10<sup>-9</sup></td>
+      <td align="center">91</td>
+      <td align="center">7.16 × 10<sup>-9</sup></td>
     </tr>
-      <td align="left"><b>BP</b></td>
+      <td align="center"><b>BP</b></td>
       <td align="left">immunoglobulin mediated immune response</td>
-      <td align="left">87</td>
-      <td align="left">1.64 × 10<sup>-9</sup></td>
+      <td align="center">87</td>
+      <td align="center">1.64 × 10<sup>-9</sup></td>
     </tr>
   </tbody>
 </table>
@@ -238,7 +238,7 @@ De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, 
  <thead>
     <tr>
       <th align="left">Pathway</th>
-      <th align="left">ID</th>
+      <th align="center">ID</th>
       <th align="left">Gene_count</th>
       <th align="left">p-value</th>
       <th align="left">Genes</th>
@@ -248,61 +248,61 @@ De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, 
     <tr>
       <td align="left"><b>MAPK signaling pathway</b></td>
       <td align="left">hsa04010</td>
-      <td align="left">93</td>
+      <td align="center">93</td>
       <td align="left">0.00390113449114229</td>
       <td align="left">AKT1, CACNA1D, CACNA1H, CACNA2D4, CACNB1, CACNB3, CASP3, CHUK, CSF1, DAXX, DDIT3, DUSP5, DUSP6, DUSP7, DUSP8, ECSIT, EFNA2, ERBB2, FGF23, FGF7, FLT1, FLT3LG, GADD45G, HRAS, HSPA1A, HSPA1B, HSPB1</td>
     </tr>
       <td align="left"><b>Epstein-Barr virus infection</b></td>
       <td align="left">hsa05169</td>
-      <td align="left">68</td>
+      <td align="center">68</td>
       <td align="left">0.00335694425358938</td>
       <td align="left">ADRM1, AKT1, B2M, BAX, BCL2, BCL2L11, CASP3, CASP8, CCND1, CCND2, CD19, CD3D, CD58, CD4, CHUK, CR2, CXCL10, E2F3, ENTPD1, GADD45G, HES1, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, HLA-F, IFNA</td>
     </tr>
       <td align="left"><b>NOD-like receptor signaling pathway</b></td>
       <td align="left">hsa04621</td>
-      <td align="left">67</td>
+      <td align="center">67</td>
       <td align="left">0.00102996703705523</td>
       <td align="left">AIM2, ANTXR1, ANTXR2, ATG16L1, ATG5, BCL2, BIRC3, CARD16, CARD6, CARD8, CARD9, CASP4, CASP5, CASP8, CASR, CCL2, CHUK, CXCL1, CXCL2, CXCL3, CXCL8, CYBB, DEFA1, GABARAP, GBP1, GBP5, GSDMD, HSP90AB1</td>
     </tr>
       <td align="left"><b>TNF signaling pathway</b></td>
       <td align="left">hsa04668</td>
-      <td align="left">46</td>
+      <td align="center">46</td>
       <td align="left">0.00193392176389528</td>
       <td align="left">ADAM17, AKT1, ATF6B, BIRC3, CASP10, CASP3, CASP8, CCL2, CHUK, CSF1, CX3CL1, CXCL1, CXCL10, CXCL2, CXCL3, CXCL6, CYLD, DAB2IP, EDN1, IL15, IL1B, IRF1, JUN, JUNB, MAP2K4, MAP2K7, MAP3K5, MAP3K7, MAPK12</td>
     </tr>
       <td align="left"><b>NF-kappa B signaling pathway</b></td>
       <td align="left">hsa04064</td>
-      <td align="left">43</td>
+      <td align="center">43</td>
       <td align="left">0.00102996703705523</td>
       <td align="left">ATM, BCL2, BCL2A1, BIRC3, CARD10, CHUK, CSNK2B, CXCL1, CXCL2, CXCL3, CXCL8, CYLD, EDA, EDARADD, GADD45G, IL1B, IRAK1, IRAK2, LBP, LTBR, LY96, LYN, MALT1, MAP3K7, NFKB1, NFKB2, PIAS4, PIDD1, PLCG2, PPP1R</td>
     </tr>
       <td align="left"><b>Th17 cell differentiation</b></td>
       <td align="left">hsa04659</td>
-      <td align="left">41</td>
+      <td align="center">41</td>
       <td align="left">0.00435344378211124</td>
       <td align="left">CD3D, CHUK, GATA3, HIF1A, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, HSP90AB1, IFNG, IFNGR1, IL1B, IL1RAP, IL21R, IL2RA, IL2RB, IL2RG, IRF4, JAK2, JUN, MAPK12, MAPK14, MAPK3, MAPK8, MTOR, NFATC2</td>
     </tr>
       <td align="left"><b>AGE-RAGE signaling pathway in diabetic complications</b></td>
       <td align="left">hsa04933</td>
-      <td align="left">40</td>
+      <td align="center">40</td>
       <td align="left">0.00273426845638295</td>
       <td align="left">AKT1, BAX, BCL2, CASP3, CCL2, CCND1, CDK4, COL4A2, COL4A4, CXCL8, CYBB, EDN1, EGR1, HRAS, IL1B, JAK2, JUN, MAPK12, MAPK14, MAPK3, MAPK8, MMP2, NFKB1, PIK3R2, PIM1, PLCB3, PLCD1, PLCD3, PLCG2, PRKCB</td>
     </tr>
       <td align="left"><b>Rheumatoid arthritis</b></td>
       <td align="left">hsa05323</td>
-      <td align="left">37</td>
+      <td align="center">37</td>
       <td align="left">0.00335694425358938</td>
       <td align="left">ATP6AP1, ATP6V0C, ATP6V0E1, ATP6V1A, ATP6V1B2, CCL2, CD28, CD86, CSF1, CTLA4, CTSL, CXCL1, CXCL2, CXCL3, CXCL6, CXCL8, FLT1, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, IFNG, IL15, IL1B, ITGAL, JUN</td>
     </tr>
       <td align="left"><b>IL-17 signaling pathway</b></td>
       <td align="left">hsa04657</td>
-      <td align="left">37</td>
+      <td align="center">37</td>
       <td align="left">0.00383832578246515</td>
       <td align="left">CASP3, CASP8, CCL2, CHUK, CXCL1, CXCL10, CXCL2, CXCL3, CXCL6, CXCL8, HSP90AB1, IFNG, IL17RC, IL17RE, IL1B, JUN, JUND, MAP3K7, MAPK12, MAPK14, MAPK15, MAPK3, MAPK7, MAPK8, MMP1, MMP3, MMP9, MUC5B</td>
     </tr>
       <td align="left"><b>Leishmaniasis</b></td>
       <td align="left">hsa05140</td>
-      <td align="left">34</td>
+      <td align="center">34</td>
       <td align="left">0.00114374802489345</td>
       <td align="left">CR1, CR1L, CYBB, FCGR1A, FCGR2A, FCGR3A, HLA-DOB, HLA-DPA1, HLA-DRA, HLA-DRB1, HLA-DRB4, IFNG, IFNGR1, IL1B, IRAK1, IRAK2, ITGA4, JAK2, JUN, MAP3K7, MAPK12, MAPK14, MAPK3, NFKB1, NFKBIB, PRKCB, PTG</td>
     </tr>
@@ -331,7 +331,7 @@ De visualisatie van de rheumatoid arthritis pathway (hsa05323) is afzonderlijk g
   
   <thead>
     <tr>
-      <th align="left">Gen</th>
+      <th align="center">Gen</th>
       <th align="left">Functie</th>
       <th align="left">Functie binnen RA</th>
     </tr>
@@ -339,32 +339,32 @@ De visualisatie van de rheumatoid arthritis pathway (hsa05323) is afzonderlijk g
   
   <tbody>
     <tr>
-      <td align="left"><b>IL1B</b></td>
+      <td align="center"><b>IL1B</b></td>
       <td align="left">Sterk pro-inflammatoir cytokine</td>
       <td align="left">Stimuleert ontsteking, cytokineproductie en kraakbeenafbraak</td>
     </tr>
     <tr>
-      <td align="left"><b>TLR4</b></td>
+      <td align="center"><b>TLR4</b></td>
       <td align="left">Centrale receptor van aangeboren immuniteit</td>
       <td align="left">Activeert ontstekingsroutes zoals NF-κB</td>
     </tr>
     <tr>
-      <td align="left"><b>TNFSF13B (BAFF)</b></td>
+      <td align="center"><b>TNFSF13B (BAFF)</b></td>
       <td align="left">Belangrijk voor B-cellen</td>
       <td align="left">Bevordert overleving en activatie van B-cellen en productie van auto-antilichamen</td>
     </tr>
     <tr>
-      <td align="left"><b>IFNG</b></td>
+      <td align="center"><b>IFNG</b></td>
       <td align="left">Sleutelcytokine van T-cellen</td>
       <td align="left">Versterkt immuunactivatie en ontstekingsreacties</td>
     </tr>
     <tr>
-      <td align="left"><b>MMP13</b></td>
+      <td align="center"><b>MMP13</b></td>
       <td align="left">Direct betrokken bij gewrichtsschade</td>
       <td align="left">Breekt extracellulaire matrix en kraakbeen af</td>
     </tr>
     <tr>
-      <td align="left"><b>CTSL</b></td>
+      <td align="center"><b>CTSL</b></td>
       <td align="left">Marker voor weefselafbraak</td>
       <td align="left">Draagt bij aan afbraak van bindweefsel en bot</td>
     </tr>
