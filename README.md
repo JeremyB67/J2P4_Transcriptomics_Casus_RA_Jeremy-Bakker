@@ -45,9 +45,9 @@ De diagnose van RA wordt doorgaans gesteld op basis van klinische symptomen en d
 
 ## 3. 📑Methode
 
-Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van Platzer et al. (2019). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was. Zie tabel 1 voor overzicht samples Platzer et al. (2019).
+Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van [Platzer et al. (2019)](https://doi.org/10.1371/journal.pone.0219698). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was. Zie tabel 1 voor overzicht samples [Platzer et al. (2019)](https://doi.org/10.1371/journal.pone.0219698).
 
-De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 (NCBI, 2026) met behulp van het Rsubread package (V2.24.0). Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (V1.50.2)(Love et al., 2014). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) (The Gene Ontology Consortium, 2021) en KEGG-pathwayanalyses (Kanehisa et al., 2023), met behulp van clusterProfiler (V4.18.4)(Yu et al., 2012). Waarna relevante pathways werden gevisualiseerd met Pathview (V1.50.0)(Luo & Brouwer, 2013). Zie figuur 1.
+De bio-informatische analyse werd uitgevoerd in R. Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 [(NCBI, 2026)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/) met behulp van het Rsubread package (V2.24.0)[(Liao et al., 2019)](https://doi.org/10.1093/nar/gkz114). Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (V1.50.2)[(Love et al., 2014)](https://doi.org/10.1186/s13059-014-0550-8). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) [(Carbon et al., 2020)](https://doi.org/10.1093/nar/gkaa1113) en KEGG-pathwayanalyses [(Kanehisa et al., 2023)](https://doi.org/10.1093/nar/gkac963), met behulp van clusterProfiler (V4.18.4)[(Yu et al., 2012)](https://doi.org/10.1089/omi.2011.0118). Waarna relevante pathways werden gevisualiseerd met Pathview (V1.50.0)[(Luo & Brouwer, 2013)](https://doi.org/10.1093/bioinformatics/btt285). Zie figuur 1.
 
 <br>
 <table>
@@ -369,29 +369,51 @@ De visualisatie van de rheumatoid arthritis pathway (hsa05323) toonde zowel op- 
 <br>
 
 ## 5. 📚Conclusie
-<p>
+
 De transcriptomische analyse toont duidelijke verschillen tussen de NORM- en RA-groep, wat wijst op een brede verstoring in genexpressie bij reumatoïde artritis. In totaal werden 4.486 genen geïdentificeerd als differentieel geëxpresseerd (padj < 0.05 en |log2 fold change| > 1), wat duidt op significante moleculaire verschillen tussen beide condities.
-</p>
 
-<p>
-Verrijkingsanalyses op basis van GO Biological Process en KEGG pathways laten zien dat deze verschillen voornamelijk samenhangen met immuunactivatie, ontstekingssignalering en adaptieve immuunrespons. Met name kwamen processen zoals lymfocytdifferentiatie, B-celactivatie en antigeenreceptor-gemedieerde signaaltransductie sterk naar voren.
-</p>
 
-<p>
-Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerregulatie van genen waargenomen. Genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL waren verhoogd geëxpresseerd en zijn betrokken bij ontstekingsprocessen, immuunresponsen en weefselafbraak, processen die kenmerkend zijn voor reumatoïde artritis (Komatsu & Takayanagi, 2022; Nandakumar et al., 2023).
-</p>
+Verrijkingsanalyses op basis van GO Biological Process en KEGG pathways laten zien dat deze verschillen voornamelijk samenhangen met immuunactivatie, ontstekingssignalering en adaptieve immuunrespons. Met name kwamen processen zoals lymfocytdifferentiatie, B-celactivatie en antigeenreceptor-gemedieerde signaaltransductie sterk naar voren [(Huang et al., 2023)](https://doi.org/10.3389/fgene.2023.1083615).
 
-<p>
-De gevonden expressiepatronen en verrijkte pathways zijn consistent met eerdere transcriptomische studies naar reumatoïde artritis (Liu et al., 2023; Wang et al., 2022; Zhang et al., 2019), waarin vergelijkbare immuun- en ontstekingsgeassocieerde processen worden beschreven. Dit ondersteunt de conclusie dat reumatoïde artritis wordt gekenmerkt door een systemische activatie van immuun- en ontstekingsroutes op transcriptomisch niveau.
-</p>
+
+Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerregulatie van genen waargenomen. Genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL waren verhoogd geëxpresseerd en zijn betrokken bij ontstekingsprocessen, immuunresponsen en weefselafbraak, processen die kenmerkend zijn voor reumatoïde artritis [(Komatsu & Takayanagi, 2022](https://doi.org/10.1038/s41584-022-00793-5); [Nandakumar et al., 2023)](https://doi.org/10.3390/ijms242115883).
+
+De verhoogde expressie van IL1B, TLR4, IFNG, TNFSF13B, MMP13 en CTSL wijst op activatie van ontstekings- en immuunroutes en processen betrokken bij gewrichtsdestructie. Deze resultaten ondersteunen de betrokkenheid van zowel aangeboren als adaptieve immuunresponsen bij de pathogenese van reumatoïde artritis en komen overeen met eerder beschreven moleculaire mechanismen van de ziekte [(Komatsu & Takayanagi, 2022](https://doi.org/10.1038/s41584-022-00793-5); [Nandakumar et al., 2023)](https://doi.org/10.3390/ijms242115883).
 
 <br>
 
 ## 6. 📚Bronnen
 
 <p>
+The Gene Ontology Consortium. (2021).<i>The Gene Ontology resource: enriching a GOld mine</i>.<i>Nucleic Acids Research, 49</i>(D1), D325–D334.
+<a href="https://doi.org/10.1093/nar/gkaa1113">https://doi.org/10.1093/nar/gkaa1113
+</p>
+
+<p>
+OpenAI. (2026). ChatGPT (June 18 version) [Large language model]. 
+<a href="https://chat.openai.com">https://chat.openai.com</a>
+</p>
+
+<p>
 Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. Rheumatic Disease Clinics of North America, 27(2), 269–281.
 <a href="https://doi.org/10.1016/s0889-857x(05)70201-5" target="_blank">https://doi.org/10.1016/s0889-857x(05)70201-5</a>
+</p>
+
+<p>
+Huang, H., Dong, X., Mao, K., Pan, W., Nie, B., &amp; Jiang, L. (2023). <i>Identification of key candidate genes and pathways in rheumatoid arthritis and osteoarthritis by integrated bioinformatical analysis. 
+<i>Frontiers in Genetics</em>, 14, 1083615. 
+<a href="https://doi.org/10.3389/fgene.2023.1083615">https://doi.org/10.3389/fgene.2023.1083615</a>
+</p>
+
+<p>
+Komatsu, N., &amp; Takayanagi, H. (2022). <i>Mechanisms of joint destruction in rheumatoid arthritis—immune cell–fibroblast–bone interactions</i>. <i>Nature Reviews Rheumatology, 18</i>(7), 415–429.
+<a href="https://doi.org/10.1038/s41584-022-00793-5">https://doi.org/10.1038/s41584-022-00793-5
+</p>
+
+<p>
+Liao, Y., Smyth, G. K., &amp; Shi, W. (2019). 
+The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads. <i>Nucleic Acids Research</i>, 47, e47. 
+<a href="https://doi.org/10.1093/nar/gkz114">https://doi.org/10.1093/nar/gkz114</a>
 </p>
 
 <p>
@@ -420,10 +442,24 @@ Majithia, V., &amp; Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and
 </p>
 
 <p>
+Nandakumar, K. S., Fang, Q., Ågren, I. W., &amp; Bejmo, Z. F. (2023). <i>Aberrant activation of immune and non-immune cells contributes to joint inflammation and bone degradation in rheumatoid arthritis</i>.
+<i>International Journal of Molecular Sciences, 24</i>(21), 15883.
+<a href="https://doi.org/10.3390/ijms242115883">https://doi.org/10.3390/ijms242115883
+</p>
+
+<p>
 NCBI. (2026). <i>Homo sapiens genome assembly GRCh38.p14</i>. NCBI.
-<a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/" target="_blank">
-Retrieved from NCBI Dataset
-</a>
+<a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/" target="_blank">. https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/</a>
+</p>
+
+<p>
+Perplexity AI. (2026). Perplexity [Large language model]. 
+<a href="https://www.perplexity.ai">https://www.perplexity.ai</a>
+</p>
+
+<p>
+Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., &amp; Aletaha, D. (2019). <i>Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns.<i>PLOS ONE</i>, 14(7), e0219698. 
+<a href="https://doi.org/10.1371/journal.pone.0219698">https://doi.org/10.1371/journal.pone.0219698</a>
 </p>
 
 <p>
@@ -444,11 +480,6 @@ Yu, F., Hu, G., Li, L., Yu, B., &amp; Liu, R. (2022). <i>Identification of key c
 <p>
 Yu, G., Wang, L.-G., Han, Y., &amp; He, Q.-Y. (2012). <i>clusterProfiler: an R package for comparing biological themes among gene clusters</i>. OMICS: A Journal of Integrative Biology, 16(5), 284–287.
 <a href="https://doi.org/10.1089/omi.2011.0118" target="_blank">https://doi.org/10.1089/omi.2011.0118</a>
-</p>
-
-<p>
-Zhang, F., Wei, K., Slowikowski, K., Fonseka, C. Y., Rao, D. A., Kelly, S., Goodman, S. M., Tabechian, D., Hughes, L. B., Salomon-Escoto, K., Watts, G. F. M., Jonsson, A. H., Rangel-Moreno, J., Meednu, N., Rozo, C., Apruzzese, W., Eisenhaure, T. M., Lieb, D. J., Boyle, D. L., &amp; Mandelin, A. M. (2019). <i>Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry</i>. Nature Immunology, 20(7), 928–942.
-<a href="https://doi.org/10.1038/s41590-019-0378-1" target="_blank">https://doi.org/10.1038/s41590-019-0378-1</a>
 </p>
 
 <br>
