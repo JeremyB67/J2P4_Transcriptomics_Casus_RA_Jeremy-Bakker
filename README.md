@@ -1,26 +1,14 @@
 # J2P4_Transcriptomics_Casus_Reumatoïde-artritis_Jeremy-Bakker
-<div class="inhoudsopgave">
-<h2>Inhoudsopgave</h2>
-<ul>
-    <li><a href="#📁Inhoud/Structuur">1. 📁Inhoud/Structuur</a></li>
-    <li><a href="#📝Inleiding">2. 📝Inleiding</a></li>
-    <li><a href="#📑Methode">3. 📑Methode</a></li>
-    <li><a href="#📊Resultatenn">4. 📊Resultaten</a>
-        <ul>
-            <li><a href="#PCA & Volcanoplot">4.1 PCA & Volcanoplot</a></li>
-            <li><a href="#go">4.2 GO Biological Process-analyse</a></li>
-            <li><a href="#kegg">4.3 KEGG Pathway-analyse</a></li>
-        </ul>
-    </li>
-    <li><a href="#📚Conclusie">5. 📚Conclusie</a></li>
-    <li><a href="#📚Bronnen">6. 📚Bronnen</a></li>
-       <ul>
-          <li><a href="#🤖AI Disclaimer">I. 🤖AI Disclaimer</a></li>
-          <li><a href="#🌐URL's">II. 🌐URL's</a></li>
-      </ul>
-</div>
 
-<br>
+## 👨‍💼Gegevens
+
+Naam: Jeremy Bakker 
+Student nummer: 5553121
+Klas: LBM2-B
+Studie: Biologie en Medisch Laboratoriumonderzoek - NHL Stenden / Van Hall Larenstein Leeuwarden
+Periode code: 25-26 J2P4_BM Innovatieve Diagnostiek TD-2526-0754
+Tutor: Dewi van der Bergh
+
   
 ## 1. 📁Inhoud/Structuur
 
@@ -29,8 +17,8 @@
 - `scripts/` - Overzicht van de scripts gebruikt tijdens de data analyse in R.
 - `resultaten/` - Figuren van GO-analyse, KEGG-analyse en Pathview analyse.
 - `bronnen/` - Gebruikte bronnen voor interpertatie en maken van scripts in R.
-- `assets/` - Overige documenten 
-- `data_stewardship/` - Beheren van de competentie........
+- `assets/` - Overige documenten gebruikt bij dit project.
+- `data_stewardship/` - Beheren van de competentie voor data stewardship.
 
 <br>
 
