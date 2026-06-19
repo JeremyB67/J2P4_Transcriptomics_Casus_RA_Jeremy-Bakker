@@ -25,7 +25,7 @@
 
 <br>
 
-## 2. 📝Inleiding
+## 2. 📝Introductie
 
 Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die voornamelijk de gewrichten aantast. De exacte oorzaak van de ziekte is nog niet volledig opgehelderd, maar er wordt aangenomen dat een combinatie van genetische aanleg, omgevingsfactoren en ontregeling van het immuunsysteem een belangrijke rol speelt [(Gabriel, 2001)](https://doi.org/10.1016/s0889-857x(05)70201-5). Een kenmerkend verschijnsel van RA is synovitis, een ontsteking van het gewrichtsslijmvlies (synovium), die kan leiden tot progressieve gewrichtsschade en functieverlies [(Radu & Bungau, 2021)](https://doi.org/10.3390/cells10112857).
 
