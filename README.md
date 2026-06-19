@@ -377,104 +377,162 @@ De verhoogde expressie van IL1B, TLR4, IFNG, TNFSF13B, MMP13 en CTSL wijst op ac
 ## 6. 📚Bronnen
 
 <p>
-The Gene Ontology Consortium. (2021).<i>The Gene Ontology resource: enriching a GOld mine</i>.<i>Nucleic Acids Research, 49</i>(D1), D325–D334.
-<a href="https://doi.org/10.1093/nar/gkaa1113">https://doi.org/10.1093/nar/gkaa1113
+Gabriel, S. E. (2001). The epidemiology of rheumatoid arthritis.
+<i>Rheumatic Disease Clinics of North America, 27</i>(2), 269–281.
+<a href="https://doi.org/10.1016/S0889-857X(05)70201-5" target="_blank">
+https://doi.org/10.1016/S0889-857X(05)70201-5
+</a>
 </p>
 
 <p>
-OpenAI. (2026). ChatGPT (June 18 version) [Large language model]. 
-<a href="https://chat.openai.com">https://chat.openai.com</a>
+Huang, H., Dong, X., Mao, K., Pan, W., Nie, B., &amp; Jiang, L. (2023).
+Identification of key candidate genes and pathways in rheumatoid arthritis and osteoarthritis by integrated bioinformatical analysis.
+<i>Frontiers in Genetics, 14</i>, 1083615.
+<a href="https://doi.org/10.3389/fgene.2023.1083615" target="_blank">
+https://doi.org/10.3389/fgene.2023.1083615
+</a>
 </p>
 
 <p>
-Gabriel, S. E. (2001). <i>The epidemiology of rheumatoid arthritis</i>. Rheumatic Disease Clinics of North America, 27(2), 269–281.
-<a href="https://doi.org/10.1016/s0889-857x(05)70201-5" target="_blank">https://doi.org/10.1016/s0889-857x(05)70201-5</a>
+Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., &amp; Tanabe, M. (2023).
+KEGG: Integrating viruses and cellular organisms.
+<i>Nucleic Acids Research, 51</i>(D1), D587–D592.
+<a href="https://doi.org/10.1093/nar/gkac963" target="_blank">
+https://doi.org/10.1093/nar/gkac963
+</a>
 </p>
 
 <p>
-Huang, H., Dong, X., Mao, K., Pan, W., Nie, B., &amp; Jiang, L. (2023). <i>Identification of key candidate genes and pathways in rheumatoid arthritis and osteoarthritis by integrated bioinformatical analysis. 
-<i>Frontiers in Genetics</em>, 14, 1083615. 
-<a href="https://doi.org/10.3389/fgene.2023.1083615">https://doi.org/10.3389/fgene.2023.1083615</a>
+Komatsu, N., &amp; Takayanagi, H. (2022).
+Mechanisms of joint destruction in rheumatoid arthritis—immune cell–fibroblast–bone interactions.
+<i>Nature Reviews Rheumatology, 18</i>(7), 415–429.
+<a href="https://doi.org/10.1038/s41584-022-00793-5" target="_blank">
+https://doi.org/10.1038/s41584-022-00793-5
+</a>
 </p>
 
 <p>
-Komatsu, N., &amp; Takayanagi, H. (2022). <i>Mechanisms of joint destruction in rheumatoid arthritis—immune cell–fibroblast–bone interactions</i>. <i>Nature Reviews Rheumatology, 18</i>(7), 415–429.
-<a href="https://doi.org/10.1038/s41584-022-00793-5">https://doi.org/10.1038/s41584-022-00793-5
+Liao, Y., Smyth, G. K., &amp; Shi, W. (2019).
+The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads.
+<i>Nucleic Acids Research, 47</i>, e47.
+<a href="https://doi.org/10.1093/nar/gkz114" target="_blank">
+https://doi.org/10.1093/nar/gkz114
+</a>
 </p>
 
 <p>
-Liao, Y., Smyth, G. K., &amp; Shi, W. (2019). 
-The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads. <i>Nucleic Acids Research</i>, 47, e47. 
-<a href="https://doi.org/10.1093/nar/gkz114">https://doi.org/10.1093/nar/gkz114</a>
+Liu, F., Huang, Y., Liu, F., &amp; Wang, H. (2023).
+Identification of immune-related genes in diagnosing atherosclerosis with rheumatoid arthritis through bioinformatics analysis and machine learning.
+<i>Frontiers in Immunology, 14</i>.
+<a href="https://doi.org/10.3389/fimmu.2023.1126647" target="_blank">
+https://doi.org/10.3389/fimmu.2023.1126647
+</a>
 </p>
 
 <p>
-Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., &amp; Tanabe, M. (2023). <i>KEGG: integrating viruses and cellular organisms</i>. Nucleic Acids Research, 51(D1), D587–D592.
-<a href="https://doi.org/10.1093/nar/gkac963" target="_blank">https://doi.org/10.1093/nar/gkac963</a>
+Love, M. I., Huber, W., &amp; Anders, S. (2014).
+Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2.
+<i>Genome Biology, 15</i>(12), 550.
+<a href="https://doi.org/10.1186/s13059-014-0550-8" target="_blank">
+https://doi.org/10.1186/s13059-014-0550-8
+</a>
 </p>
 
 <p>
-Liu, F., Huang, Y., Liu, F., &amp; Wang, H. (2023). <i>Identification of immune-related genes in diagnosing atherosclerosis with rheumatoid arthritis through bioinformatics analysis and machine learning</i>. Frontiers in Immunology, 14.
-<a href="https://doi.org/10.3389/fimmu.2023.1126647" target="_blank">https://doi.org/10.3389/fimmu.2023.1126647</a>
+Luo, W., &amp; Brouwer, C. (2013).
+Pathview: An R/Bioconductor package for pathway-based data integration and visualization.
+<i>Bioinformatics, 29</i>(14), 1830–1831.
+<a href="https://doi.org/10.1093/bioinformatics/btt285" target="_blank">
+https://doi.org/10.1093/bioinformatics/btt285
+</a>
 </p>
 
 <p>
-Love, M. I., Huber, W., &amp; Anders, S. (2014). <i>Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2</i>. Genome Biology, 15(12), 550.
-<a href="https://doi.org/10.1186/s13059-014-0550-8" target="_blank">https://doi.org/10.1186/s13059-014-0550-8</a>
+Majithia, V., &amp; Geraci, S. A. (2007).
+Rheumatoid arthritis: Diagnosis and management.
+<i>The American Journal of Medicine, 120</i>(11), 936–939.
+<a href="https://doi.org/10.1016/j.amjmed.2007.04.005" target="_blank">
+https://doi.org/10.1016/j.amjmed.2007.04.005
+</a>
 </p>
 
 <p>
-Luo, W., &amp; Brouwer, C. (2013). <i>Pathview: an R/Bioconductor package for pathway-based data integration and visualization</i>. Bioinformatics, 29(14), 1830–1831.
-<a href="https://doi.org/10.1093/bioinformatics/btt285" target="_blank">https://doi.org/10.1093/bioinformatics/btt285</a>
-</p>
-
-<p>
-Majithia, V., &amp; Geraci, S. A. (2007). <i>Rheumatoid Arthritis: Diagnosis and Management</i>. The American Journal of Medicine, 120(11), 936–939.
-<a href="https://doi.org/10.1016/j.amjmed.2007.04.005" target="_blank">https://doi.org/10.1016/j.amjmed.2007.04.005</a>
-</p>
-
-<p>
-Nandakumar, K. S., Fang, Q., Ågren, I. W., &amp; Bejmo, Z. F. (2023). <i>Aberrant activation of immune and non-immune cells contributes to joint inflammation and bone degradation in rheumatoid arthritis</i>.
+Nandakumar, K. S., Fang, Q., Ågren, I. W., &amp; Bejmo, Z. F. (2023).
+Aberrant activation of immune and non-immune cells contributes to joint inflammation and bone degradation in rheumatoid arthritis.
 <i>International Journal of Molecular Sciences, 24</i>(21), 15883.
-<a href="https://doi.org/10.3390/ijms242115883">https://doi.org/10.3390/ijms242115883
+<a href="https://doi.org/10.3390/ijms242115883" target="_blank">
+https://doi.org/10.3390/ijms242115883
+</a>
 </p>
 
 <p>
-NCBI. (2026). <i>Homo sapiens genome assembly GRCh38.p14</i>. NCBI.
-<a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/" target="_blank">. https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/</a>
+NCBI. (2026).
+<i>Homo sapiens genome assembly GRCh38.p14</i>.
+<a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/" target="_blank">
+https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/
+</a>
 </p>
 
 <p>
-Perplexity AI. (2026). Perplexity [Large language model]. 
-<a href="https://www.perplexity.ai">https://www.perplexity.ai</a>
+OpenAI. (2026).
+<i>ChatGPT (June 18 version)</i> [Large language model].
+<a href="https://chat.openai.com" target="_blank">
+https://chat.openai.com
+</a>
 </p>
 
 <p>
-Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., &amp; Aletaha, D. (2019). <i>Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns.<i>PLOS ONE</i>, 14(7), e0219698. 
-<a href="https://doi.org/10.1371/journal.pone.0219698">https://doi.org/10.1371/journal.pone.0219698</a>
+Perplexity AI. (2026).
+<i>Perplexity</i> [Large language model].
+<a href="https://www.perplexity.ai" target="_blank">
+https://www.perplexity.ai
+</a>
 </p>
 
 <p>
-Radu, A.-F., &amp; Bungău, S. G. (2021). <i>Management of Rheumatoid Arthritis: An Overview</i>. Cells, 10(11), 2857.
-<a href="https://doi.org/10.3390/cells10112857" target="_blank">https://doi.org/10.3390/cells10112857</a>
+Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., &amp; Aletaha, D. (2019).
+Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns.
+<i>PLOS ONE, 14</i>(7), e0219698.
+<a href="https://doi.org/10.1371/journal.pone.0219698" target="_blank">
+https://doi.org/10.1371/journal.pone.0219698
+</a>
 </p>
 
 <p>
-The Gene Ontology Consortium. (2021). <i>The Gene Ontology resource: enriching a GOld mine</i>. Nucleic Acids Research, 49(D1), D325–D334.
-<a href="https://doi.org/10.1093/nar/gkaa1113" target="_blank">https://doi.org/10.1093/nar/gkaa1113</a>
+Radu, A.-F., &amp; Bungău, S. G. (2021).
+Management of rheumatoid arthritis: An overview.
+<i>Cells, 10</i>(11), 2857.
+<a href="https://doi.org/10.3390/cells10112857" target="_blank">
+https://doi.org/10.3390/cells10112857
+</a>
 </p>
 
 <p>
-Yu, F., Hu, G., Li, L., Yu, B., &amp; Liu, R. (2022). <i>Identification of key candidate genes and biological pathways in the synovial tissue of patients with rheumatoid arthritis</i>. Experimental and Therapeutic Medicine, 23(6).
-<a href="https://doi.org/10.3892/etm.2022.11295" target="_blank">https://doi.org/10.3892/etm.2022.11295</a>
+The Gene Ontology Consortium. (2021).
+The Gene Ontology resource: Enriching a GOld mine.
+<i>Nucleic Acids Research, 49</i>(D1), D325–D334.
+<a href="https://doi.org/10.1093/nar/gkaa1113" target="_blank">
+https://doi.org/10.1093/nar/gkaa1113
+</a>
 </p>
 
 <p>
-Yu, G., Wang, L.-G., Han, Y., &amp; He, Q.-Y. (2012). <i>clusterProfiler: an R package for comparing biological themes among gene clusters</i>. OMICS: A Journal of Integrative Biology, 16(5), 284–287.
-<a href="https://doi.org/10.1089/omi.2011.0118" target="_blank">https://doi.org/10.1089/omi.2011.0118</a>
+Yu, F., Hu, G., Li, L., Yu, B., &amp; Liu, R. (2022).
+Identification of key candidate genes and biological pathways in the synovial tissue of patients with rheumatoid arthritis.
+<i>Experimental and Therapeutic Medicine, 23</i>(6).
+<a href="https://doi.org/10.3892/etm.2022.11295" target="_blank">
+https://doi.org/10.3892/etm.2022.11295
+</a>
 </p>
 
-<br>
+<p>
+Yu, G., Wang, L.-G., Han, Y., &amp; He, Q.-Y. (2012).
+clusterProfiler: An R package for comparing biological themes among gene clusters.
+<i>OMICS: A Journal of Integrative Biology, 16</i>(5), 284–287.
+<a href="https://doi.org/10.1089/omi.2011.0118" target="_blank">
+https://doi.org/10.1089/omi.2011.0118
+</a>
+</p>
 
 ## I. 🤖AI Disclaimer
 AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoeken van wetenschapelijke artikelen, het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteur/student gecontroleerd.
