@@ -299,9 +299,9 @@ De KEGG pathway-analyse identificeerde meerdere significant verrijkte pathways, 
 <br>
 
 ### 4.4 KEGG Rheumatoid Arthritis pathway (hsa05323)
-<p>
-De visualisatie van de rheumatoid arthritis pathway (hsa05323) is afzonderlijk gevisualiseerd met Pathview en toonde zowel op- als neerregulatie van genen binnen de pathway. Onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie in de RA-groep dan de NORM-groep zie <strong>[Figuur 5]</strong> en <strong>[Tabel 4]</strong>.
-</p>
+
+De visualisatie van de rheumatoid arthritis pathway (hsa05323) [(KEGG, 2025)](https://www.kegg.jp/pathway/hsa05323) is afzonderlijk gevisualiseerd met Pathview en toonde zowel op- als neerregulatie van genen binnen de pathway. Onder andere IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL vertoonden verhoogde expressie in de RA-groep dan de NORM-groep zie <strong>[Figuur 5]</strong> en <strong>[Tabel 4]</strong>.
+
 
 <p align="center">
   <img width="1492" height="859" alt="Image" src="https://github.com/user-attachments/assets/f9a53300-8888-4aec-b10e-5d0c91c82e57" />
@@ -408,6 +408,15 @@ Mechanisms of joint destruction in rheumatoid arthritis—immune cell–fibrobla
 <i>Nature Reviews Rheumatology, 18</i>(7), 415–429.
 <a href="https://doi.org/10.1038/s41584-022-00793-5" target="_blank">
 https://doi.org/10.1038/s41584-022-00793-5
+</a>
+</p>
+
+<p>
+KEGG. (2025).
+<i>Rheumatoid arthritis – Homo sapiens (hsa05323)</i>.
+In <i>KEGG PATHWAY</i>. KEGG.
+<a href="https://www.kegg.jp/pathway/hsa05323" target="_blank">
+https://www.kegg.jp/pathway/hsa05323
 </a>
 </p>
 
