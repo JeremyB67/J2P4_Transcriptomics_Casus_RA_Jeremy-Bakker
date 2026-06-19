@@ -364,13 +364,12 @@ De visualisatie van de rheumatoid arthritis pathway (hsa05323) [(KEGG, 2025)](ht
 De transcriptomische analyse toont duidelijke verschillen tussen de NORM- en RA-groep, wat wijst op een brede verstoring in genexpressie bij reumatoïde artritis. In totaal werden 4.486 genen geïdentificeerd als differentieel geëxpresseerd (padj < 0.05 en |log2 fold change| > 1), wat duidt op significante moleculaire verschillen tussen beide condities.
 
 
-Verrijkingsanalyses op basis van GO Biological Process en KEGG pathways laten zien dat deze verschillen voornamelijk samenhangen met immuunactivatie, ontstekingssignalering en adaptieve immuunrespons. Met name kwamen processen zoals lymfocytdifferentiatie, B-celactivatie en antigeenreceptor-gemedieerde signaaltransductie sterk naar voren [(Huang et al., 2023)](https://doi.org/10.3389/fgene.2023.1083615).
+Verrijkingsanalyses op basis van GO Biological Process en KEGG pathways laten zien dat deze verschillen voornamelijk samenhangen met immuunactivatie, ontstekingssignalering en adaptieve immuunrespons. Met name kwamen processen zoals lymfocytdifferentiatie, B-celactivatie en antigeenreceptor-gemedieerde signaaltransductie sterk naar voren.
 
 
-Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerregulatie van genen waargenomen. Genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL waren verhoogd geëxpresseerd en zijn betrokken bij ontstekingsprocessen, immuunresponsen en weefselafbraak, processen die kenmerkend zijn voor reumatoïde artritis [(Komatsu & Takayanagi, 2022](https://doi.org/10.1038/s41584-022-00793-5); [Nandakumar et al., 2023)](https://doi.org/10.3390/ijms242115883).
+Binnen de KEGG rheumatoid arthritis pathway (hsa05323) werd zowel op- als neerregulatie van genen waargenomen. Genen zoals IL1B, TLR4, TNFSF13B, IFNG, MMP13 en CTSL waren verhoogd geëxpresseerd en zijn betrokken bij ontstekingsprocessen, immuunresponsen en weefselafbraak, processen die kenmerkend zijn voor reumatoïde artritis.
 
-De verhoogde expressie van IL1B, TLR4, IFNG, TNFSF13B, MMP13 en CTSL wijst op activatie van ontstekings- en immuunroutes en processen betrokken bij gewrichtsdestructie. Deze resultaten ondersteunen de betrokkenheid van zowel aangeboren als adaptieve immuunresponsen bij de pathogenese van reumatoïde artritis en komen overeen met eerder beschreven moleculaire mechanismen van de ziekte [(Komatsu & Takayanagi, 2022](https://doi.org/10.1038/s41584-022-00793-5); [Nandakumar et al., 2023)](https://doi.org/10.3390/ijms242115883).
-
+De verhoogde expressie van IL1B, TLR4, IFNG, TNFSF13B, MMP13 en CTSL wijst op activatie van ontstekings- en immuunroutes en processen betrokken bij gewrichtsdestructie. Deze resultaten ondersteunen de betrokkenheid van zowel aangeboren als adaptieve immuunresponsen bij de pathogenese van reumatoïde artritis en komen overeen met eerder beschreven moleculaire mechanismen van de ziekte.
 <br>
 
 ## 6. 📚Bronnen
