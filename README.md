@@ -39,7 +39,7 @@ In dit onderzoek staat de vraag centraal welke transcriptomische verschillen bes
 
 Voor deze analyse werd gebruikgemaakt van een publieke RNA-seq dataset afkomstig uit een eerder onderzoek van [Platzer et al. (2019)](https://doi.org/10.1371/journal.pone.0219698). De dataset bestond uit acht synoviumbiopten, waarvan vier afkomstig waren van patiënten met gevestigde RA (ziekteduur >12 maanden) en vier van personen zonder RA. De biopten werden verkregen uit het synovium, het gewrichtsslijmvlies dat een centrale rol speelt in de pathologie van RA. Alle RA-patiënten waren positief voor anti-cyclische gecitrullineerde peptiden (ACPA), terwijl de controlegroep ACPA-negatief was. Zie <strong>[Tabel 1]</strong>. voor overzicht samples [Platzer et al. (2019)](https://doi.org/10.1371/journal.pone.0219698).
 
-De bio-informatische analyse werd uitgevoerd in R Studio (V4.5.2). Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 [(NCBI, 2026)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/) met behulp van het Rsubread package (V2.24.0)[(Liao et al., 2019)](https://doi.org/10.1093/nar/gkz114). Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (V1.50.2)[(Love et al., 2014)](https://doi.org/10.1186/s13059-014-0550-8). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) [(Carbon et al., 2020)](https://doi.org/10.1093/nar/gkaa1113) en KEGG-pathwayanalyses [(Kanehisa et al., 2023)](https://doi.org/10.1093/nar/gkac963), met behulp van clusterProfiler (V4.18.4)[(Yu et al., 2012)](https://doi.org/10.1089/omi.2011.0118). Waarna relevante pathways werden gevisualiseerd met Pathview (V1.50.0)[(Luo & Brouwer, 2013)](https://doi.org/10.1093/bioinformatics/btt285). Zie <strong>[Figuur 1]</strong>.
+De bio-informatische analyse werd uitgevoerd in R Studio (V4.5.2). Sequencing reads werden gemapt tegen het humane referentiegenoom GRCh38 [(NCBI, 2026)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/) met behulp van het Rsubread package (V2.24.0)[(Liao et al., 2019)](https://doi.org/10.1093/nar/gkz114). Vervolgens werden reads per gen gekwantificeerd met featureCounts. Differentiële genexpressie tussen de RA- en controlegroep werd bepaald met DESeq2 (V1.50.2)[(Love et al., 2014)](https://doi.org/10.1186/s13059-014-0550-8). Significant gereguleerde genen werden verder onderzocht met Gene Ontology (GO) [(Carbon et al., 2021)](https://doi.org/10.1093/nar/gkaa1113) en KEGG-pathwayanalyses [(Kanehisa et al., 2023)](https://doi.org/10.1093/nar/gkac963), met behulp van clusterProfiler (V4.18.4)[(Yu et al., 2012)](https://doi.org/10.1089/omi.2011.0118). Waarna relevante pathways werden gevisualiseerd met Pathview (V1.50.0)[(Luo & Brouwer, 2013)](https://doi.org/10.1093/bioinformatics/btt285). Zie <strong>[Figuur 1]</strong>.
 
 <br>
 <table>
@@ -375,6 +375,14 @@ De verhoogde expressie van IL1B, TLR4, IFNG, TNFSF13B, MMP13 en CTSL wijst op ac
 <br>
 
 ## 6. 📚Bronnen
+<p>
+Carbon, S., Douglass, E., Good, B. M., Unni, D. R., Harris, N. L., Mungall, C. J., Basu, S., Chisholm, R. L., Dodson, R. J., Hartline, E., Fey, P., Thomas, P. D., Albou, L.-P., Ebert, D., Kesling, M. J., Mi, H., Muruganujan, A., Huang, X., Mushayahama, T., &amp; LaBonte, S. A. (2021).
+<i>The Gene Ontology resource: enriching a GOld mine</i>.
+<i>Nucleic Acids Research, 49</i>(D1), D325–D334.
+<a href="https://doi.org/10.1093/nar/gkaa1113" target="_blank">
+https://doi.org/10.1093/nar/gkaa1113
+</a>
+</p>
 
 <p>
 Gabriel, S. E. (2001). The epidemiology of rheumatoid arthritis.
