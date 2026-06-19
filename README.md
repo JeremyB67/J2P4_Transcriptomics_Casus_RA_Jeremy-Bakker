@@ -537,8 +537,6 @@ https://doi.org/10.1089/omi.2011.0118
 ## I. 🤖AI Disclaimer
 AI-tools zoals ChatGPT en Perplexity zijn gebruikt ter ondersteuning bij het zoeken van wetenschapelijke artikelen, het schrijven van teksten, het structureren van resultaten, en het opzetten van de GitHub-pagina, inclusief het verwerken en formatteren van externe bronnen. Alle analyses, interpretaties en eindinhoud zijn door de auteur/student gecontroleerd.
 
-<br>
-
 ## II. 🌐URL's
 - https://github.com/YuLab-SMU/biomedical-knowledge-mining-book
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
